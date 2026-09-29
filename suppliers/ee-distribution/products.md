@@ -136,7 +136,7 @@ Decision: **REJECTED at market screen.** Current market pricing is too close to 
 
 Decision: **REJECTED at market screen.** There is no meaningful Amazon price premium to absorb FBA economics, so no EE dealer lookup is justified.
 
-### WATCH — G.I. Joe Classified Series #188 Brent "Hit & Run" Scott
+### REJECTED — G.I. Joe Classified Series #188 Brent "Hit & Run" Scott
 
 - EE/public item code: `HSG2274`
 - UPC: `5010996361523`
@@ -153,15 +153,21 @@ Decision: **REJECTED at market screen.** There is no meaningful Amazon price pre
 - Using the more conservative $33.94 market-sale reference, **maximum EE dealer list price before EE→FBA transportation is about $19.69/unit**, after applying the 7% first-order discount and $0.50 EE labeling/packaging charge.
 - At a $34.74 sale price, the equivalent dealer-price ceiling is about **$20.42/unit before EE→FBA transportation**.
 - Every $1.00/unit of EE→FBA transportation lowers the viable dealer list ceiling by about $1.08.
-- EE Distribution dealer price, dealer stock/case quantity, and any Amazon/third-party marketplace restriction remain unresolved.
+- Dealer portal check from 2026-09-29: **PRE-ORDER**, estimated to arrive **November 2026**.
+- Pieces per case: **6**.
+- Dealer pricing: 1–3 cases / 6–18 pcs = **$23.50 per piece**; 4+ cases / 24+ pcs = **$21.80**.
+- At the smallest tier, the 7% first-order discount plus $0.50 EE prep/labeling yields an effective EE cost of **$22.36/unit before EE→FBA transportation**.
+- That is already about **$1.94–$2.67/unit above** the previously calculated viable dealer-price ceiling before any EE→FBA freight.
+- The 24+ piece tier reduces effective EE cost to about **$20.77/unit before freight**, but still does not clear the conservative $33.94-sale threshold, and 24 pieces would exceed the intended first-experiment inventory exposure.
+- No Amazon / third-party marketplace prohibition is visible in the supplied dealer-page screenshot.
 
-Decision: **WATCH — dealer portal check justified.** This is the only batch-2 item close enough to the threshold to justify manual dealer-side verification.
+Decision: **REJECTED.** The small-order tier misses the economics before freight, the larger tier requires too much inventory for the experiment, and the item is not expected to arrive until November 2026.
 
-### Batch 2 next action
+### Batch 2 resolution
 
-Check `HSG2274` / UPC `5010996361523` in the EE Distribution dealer portal for dealer price, stock/orderability, pieces per case / MOQ, and any Amazon or third-party marketplace restriction.
+The dealer-side check for `HSG2274` was completed on 2026-09-29 and the item is **REJECTED**.
 
-Do not advance to CANDIDATE unless the dealer price and channel terms clear the threshold.
+No candidate emerged from batch 2. Proceed to another small research batch and checkpoint before asking for additional dealer-portal lookups.
 
 ## Entry standard for future research
 
