@@ -11,6 +11,8 @@ Amounts and Amazon conditions can change. Revalidate time-sensitive market data 
 | REJECTED | Bandai Gundam Barbatos Renewal | BLFBAS67660 | B0F61J4DF9 | $30.30 | Max viable buy price was approximately $17.50 in the prior screen | Dealer cost was far above the calculated viable threshold |
 | REJECTED | NECA Odyn | NC54416 | — | — | — | Sold out and EE listing prohibited Amazon/eBay/other third-party ecommerce resale |
 | REJECTED | NECA Ace Duck | NC54486 | — | — | — | Sold out and EE listing prohibited Amazon/eBay/other third-party ecommerce resale |
+| REJECTED | Fallout T-45B Nuka Cola McFarlane Elite Edition #13 | MF11627 | B0GT2C7CLF | $49.90 (1 case / 3 pcs) | Max viable dealer list price ~ $31.89 before EE→FBA freight | Dealer cost is far above viable ceiling; estimated loss ~ $11.75/unit before EE→FBA freight at the screened $49.97 sale price |
+| REJECTED | Helldivers II SA-04 Combat Technician McFarlane Elite Edition #14 | MF16209 | B0GT1KJNC4 | $49.90 (1 case / 3 pcs) | Max viable dealer list price ~ $34.16 before EE→FBA freight | Dealer cost is far above viable ceiling; estimated loss ~ $9.64/unit before EE→FBA freight at the screened $52.98 sale price |
 
 ## Recovered but unresolved screening leads
 
@@ -30,7 +32,7 @@ These names appeared in the prior screening pool, but the detailed research was 
 
 This batch used public market data to identify items worth checking inside the account-gated EE Distribution dealer portal. Public Entertainment Earth inventory is a discovery signal only; it is **not** treated as proof of EE Distribution dealer inventory or marketplace permission.
 
-### WATCH — Fallout T-45B Nuka Cola McFarlane Elite Edition #13
+### REJECTED — Fallout T-45B Nuka Cola McFarlane Elite Edition #13
 
 - Public EE item code: `MF11627`
 - UPC: `787926116274`
@@ -46,11 +48,15 @@ This batch used public market data to identify items worth checking inside the a
 - Target profit: $5/unit.
 - **Maximum EE dealer list price before EE→FBA transportation: about $31.89/unit** at a $49.97 selling price, after applying the 7% first-order discount and $0.50 EE labeling/packaging charge.
 - Every $1.00/unit of actual EE→FBA transportation lowers the maximum viable dealer list price by about $1.08.
-- Dealer stock, dealer price, case/MOQ, and any Amazon/channel restriction remain unresolved.
+- Dealer portal check from 2026-09-29: **IN STOCK**, 3 pieces per case.
+- Dealer pricing: 1 case / 3 pcs = **$49.90 per piece**; 2–3 cases / 6–9 pcs = **$48.90**; 4+ cases / 12+ pcs = **$47.70**.
+- At the first-experiment quantity of one case, the 7% first-order discount plus $0.50 EE prep/labeling yields an effective EE cost of **$46.91/unit before EE→FBA transportation**.
+- At the screened $49.97 sale price, estimated economics are about **-$11.75/unit before EE→FBA transportation**, using the previously recorded referral/FBA/surcharge/inbound-placement assumptions.
+- No red Amazon / third-party marketplace prohibition is visible in the supplied dealer-page screenshot. The red text shown is a $59.99 Minimum Advertised Price, not a marketplace restriction.
 
-Decision: **WATCH — dealer portal check justified.** The product is only viable if EE's dealer price is materially below the ~$31.89 pre-freight ceiling.
+Decision: **REJECTED.** Dealer cost is far above the ~$31.89 pre-freight ceiling; even the 12+ piece tier at $47.70 is not remotely viable.
 
-### WATCH — Helldivers II SA-04 Combat Technician McFarlane Elite Edition #14
+### REJECTED — Helldivers II SA-04 Combat Technician McFarlane Elite Edition #14
 
 - Public EE item code: `MF16209`
 - UPC: `787926162097`
@@ -66,9 +72,13 @@ Decision: **WATCH — dealer portal check justified.** The product is only viabl
 - Target profit: $5/unit.
 - **Maximum EE dealer list price before EE→FBA transportation: about $34.16/unit** at a $52.98 selling price, after applying the 7% first-order discount and $0.50 EE labeling/packaging charge.
 - Every $1.00/unit of actual EE→FBA transportation lowers the maximum viable dealer list price by about $1.08.
-- Dealer stock, dealer price, case/MOQ, and any Amazon/channel restriction remain unresolved.
+- Dealer portal check from 2026-09-29: **IN STOCK**, 3 pieces per case.
+- Dealer pricing: 1 case / 3 pcs = **$49.90 per piece**; 2–3 cases / 6–9 pcs = **$48.90**; 4+ cases / 12+ pcs = **$47.70**.
+- At the first-experiment quantity of one case, the 7% first-order discount plus $0.50 EE prep/labeling yields an effective EE cost of **$46.91/unit before EE→FBA transportation**.
+- At the screened $52.98 sale price, estimated economics are about **-$9.64/unit before EE→FBA transportation**, using the previously recorded referral/FBA/surcharge/inbound-placement assumptions.
+- No red Amazon / third-party marketplace prohibition is visible in the supplied dealer-page screenshot. The red text shown is a $59.99 Minimum Advertised Price, not a marketplace restriction.
 
-Decision: **WATCH — dealer portal check justified.** Prefer a dealer price comfortably below ~$34.16 before freight.
+Decision: **REJECTED.** Dealer cost is far above the ~$34.16 pre-freight ceiling; even the 12+ piece tier at $47.70 is not viable.
 
 ### WATCH / deprioritized — Batman & Robin Classic TV Series Collector Edition #5 2-Pack
 
@@ -82,16 +92,11 @@ Decision: **WATCH — dealer portal check justified.** Prefer a dealer price com
 
 Decision: **WATCH / deprioritized.** Revisit only if dealer inventory is later shown available.
 
-### Batch 1 next action
+### Batch 1 resolution
 
-In the EE Distribution dealer portal, check `MF11627` / UPC `787926116274` and `MF16209` / UPC `787926162097` for:
+The dealer-side checks were completed on 2026-09-29. Both `MF11627` and `MF16209` are **REJECTED on economics**.
 
-1. dealer unit price;
-2. current stock/orderability;
-3. MOQ/case quantity; and
-4. any red Amazon / third-party marketplace restriction.
-
-Do not advance either item to CANDIDATE until those four dealer-side facts are known.
+No candidate emerged from batch 1. Proceed to a new small research batch and checkpoint it before expanding further.
 
 ## Entry standard for future research
 
