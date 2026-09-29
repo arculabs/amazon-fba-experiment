@@ -169,6 +169,64 @@ The dealer-side check for `HSG2274` was completed on 2026-09-29 and the item is 
 
 No candidate emerged from batch 2. Proceed to another small research batch and checkpoint before asking for additional dealer-portal lookups.
 
+
+## Research checkpoint — 2026-09-29 batch 3
+
+Batch 3 tested two different directions: small Funko exclusives (lower FBA fulfillment burden) and higher-ticket Super7 collector figures. No dealer-portal lookup is justified from this batch.
+
+### NOT ADVANCED — One Piece Straw Hat Pirates Nami Funko Pop! #2335
+
+- Public EE item code: `FUPN92032EE`
+- UPC: `889698920322`
+- Public Entertainment Earth price: **$16.99**, in stock during the screen.
+- Other current retail observed: Walmart **$16.99**, Fundom **$22.95**, Target listing around **$20.09 sale / $29.99 list**, and other specialty sellers around the low-to-mid $20s.
+- A trustworthy exact Amazon ASIN for UPC `889698920322` was not established from public evidence.
+
+Decision: **NOT ADVANCED.** The exact Amazon identity gate is unresolved and consumer-market supply is already dense at prices near EE's public retail. Do not spend dealer-portal effort on this item for the first experiment.
+
+### NOT ADVANCED — The Punisher: One Last Kill Glow-in-the-Dark Funko Pop! #1635
+
+- Public EE item code: `FU4P94713EE`
+- Funko item number: `94713`
+- Public Entertainment Earth price: **$16.99**, in stock during the screen.
+- Funko itself lists the retailer-exclusive item at **$14.99**.
+- Current specialty-market offers observed roughly **$15.99–$25.95**.
+- A trustworthy exact Amazon ASIN was not established from public evidence.
+
+Decision: **NOT ADVANCED.** Direct/current retail competition is too close to the likely wholesale economics, and the exact Amazon identity gate is unresolved.
+
+### NOT ADVANCED — Formula 1 Red Bull Max Verstappen with Flag Funko Pop! #18
+
+- Public EE item code: `FU7VE94756EE`
+- UPC: `889698947565`
+- Public Entertainment Earth price: **$16.99**, in stock during the screen.
+- Current specialty-market offers observed around **$16.95–$19.99**, with some higher outliers.
+- A trustworthy exact Amazon ASIN was not established from public evidence.
+
+Decision: **NOT ADVANCED.** Retail saturation near MSRP leaves no compelling reason for a dealer-price check, and the exact Amazon identity gate is unresolved.
+
+### IDENTITY MISMATCH / NOT ADVANCED — ThunderCats Ultimates Snarf 7-Inch Action Figure
+
+- Current public EE item code: `SUP82747`
+- **Current EE UPC: `840418835463`**
+- Public Entertainment Earth price: **$65.00**, in stock during the screen.
+- Public competing retail includes Best Buy at **$65.00**.
+- ActionFigure411 tracks an older Snarf release under Amazon ASIN `B0C15RK1QK`, but that record uses **UPC `840049827479`**, not the current EE UPC.
+- The older release has recent sold-auction averages around **$70.60**, but those economics cannot be transferred to the current EE reissue without exact UPC/ASIN identity.
+
+Decision: **NOT ADVANCED.** Same product name is not sufficient. The UPC mismatch means the older Amazon listing cannot be treated as the current EE product. This is a useful hard-gate example for future research.
+
+### Batch 3 resolution
+
+No item in batch 3 warrants a manual EE dealer-price lookup.
+
+The batch reinforces two sourcing lessons for this experiment:
+
+1. Small collectible items only help if the marketplace price premium is real; broad retail availability near MSRP can erase the apparent FBA advantage.
+2. Reissues can reuse nearly identical product names while changing UPCs. Exact UPC/model → ASIN identity remains a hard gate before economics are trusted.
+
+Proceed to the next small batch from a different product cluster rather than continuing to force Funko or same-name reissues.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
