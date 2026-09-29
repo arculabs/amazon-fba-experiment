@@ -98,6 +98,71 @@ The dealer-side checks were completed on 2026-09-29. Both `MF11627` and `MF16209
 
 No candidate emerged from batch 1. Proceed to a new small research batch and checkpoint it before expanding further.
 
+
+## Research checkpoint — 2026-09-29 batch 2
+
+Batch 2 shifted away from $60 McFarlane products toward standard Hasbro collector figures, looking for items where the Amazon/secondary-market selling price sits meaningfully above MSRP.
+
+### REJECTED at market screen — G.I. Joe Classified Series #201 Cobra Overkill
+
+- EE/public item code: `HSG2281`
+- UPC: `5010996361462`
+- Exact Amazon ASIN: `B0FHJVNBTG`
+- MSRP / retail reference: $27.99.
+- Current Amazon price observed in the market screen: approximately **$27.97**.
+- Secondary-market sold prices can be higher, but the relevant FBA listing is presently available around MSRP.
+
+Decision: **REJECTED at market screen.** The current Amazon selling price leaves no realistic path to the experiment's ~$5/unit target after referral, FBA, prep, inbound, and wholesale cost. No dealer-price lookup is justified unless the Amazon market changes materially.
+
+### REJECTED at market screen — Star Wars Black Series Watto
+
+- EE/public item code: `HSG2591`
+- UPC: `5010996365934`
+- Exact Amazon ASIN: `B0FH7NHT2Y`
+- MSRP / retail reference: $27.99.
+- Current Amazon price observed in the market screen: approximately **$29.99**.
+- Recent sold-auction average observed: approximately **$21.99**.
+
+Decision: **REJECTED at market screen.** Current market pricing is too close to MSRP, with secondary sales below MSRP, so there is insufficient room for the experiment's target economics.
+
+### REJECTED at market screen — G.I. Joe Classified Series #187 Night-Viper
+
+- EE/public item code: `HSG2273`
+- UPC: `5010996361448`
+- Exact Amazon ASIN: `B0FH7DGH2L`
+- MSRP: $27.99.
+- Current Amazon pricing observed in the market screen is roughly **$25.69–$27.08**, below or around MSRP.
+- Hasbro Pulse currently lists the figure at $27.99.
+
+Decision: **REJECTED at market screen.** There is no meaningful Amazon price premium to absorb FBA economics, so no EE dealer lookup is justified.
+
+### WATCH — G.I. Joe Classified Series #188 Brent "Hit & Run" Scott
+
+- EE/public item code: `HSG2274`
+- UPC: `5010996361523`
+- Exact Amazon ASIN: `B0FH7BRKY1`
+- MSRP: $27.99.
+- Recent Amazon price reference observed: approximately **$34.74**.
+- Recent last-20 sold-auction average observed: **$33.94**; active Buy It Now average approximately **$36.14**.
+- Product dimensions observed: about 5 × 2.01 × 9.76 in; item weight about 0.42–0.44 lb.
+- Estimated large-standard dimensional shipping weight: about **11.3 oz**.
+- Amazon Toys & Games referral fee: **15%**.
+- 2026 holiday-peak FBA base fee for large-standard $10–$50 products at 8+–12 oz: **$4.48**, plus the **3.5%** fuel/logistics surcharge.
+- Conservative inbound-placement allowance for large-standard up to 12 oz: **$0.40/unit**.
+- Target profit: $5/unit.
+- Using the more conservative $33.94 market-sale reference, **maximum EE dealer list price before EE→FBA transportation is about $19.69/unit**, after applying the 7% first-order discount and $0.50 EE labeling/packaging charge.
+- At a $34.74 sale price, the equivalent dealer-price ceiling is about **$20.42/unit before EE→FBA transportation**.
+- Every $1.00/unit of EE→FBA transportation lowers the viable dealer list ceiling by about $1.08.
+- EE Distribution dealer price, dealer stock/case quantity, and any Amazon/third-party marketplace restriction remain unresolved.
+
+Decision: **WATCH — dealer portal check justified.** This is the only batch-2 item close enough to the threshold to justify manual dealer-side verification.
+
+### Batch 2 next action
+
+Check `HSG2274` / UPC `5010996361523` in the EE Distribution dealer portal for dealer price, stock/orderability, pieces per case / MOQ, and any Amazon or third-party marketplace restriction.
+
+Do not advance to CANDIDATE unless the dealer price and channel terms clear the threshold.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
