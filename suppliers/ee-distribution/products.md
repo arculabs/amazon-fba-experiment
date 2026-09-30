@@ -1124,6 +1124,61 @@ Marvel reinforces the reverse-sourcing timing pattern: products with real curren
 
 The exact-identity rule again prevented a false match: the valuable 2026 X-Men '97 Professor Xavier & Hoverchair is not the older Professor X-with-chair product currently listed by EE.
 
+
+## Research checkpoint — 2026-09-29 September EED sale screen
+
+The logged-in EE Distribution **Deals & Sales** page exposed a September EED sale with standard Funko Pop inventory at **$3.92 each**, versus a displayed regular dealer price of **$8.20 each**, generally packed **6 pieces per case**.
+
+Uriel Gonzalez confirmed separately that the normal first-order **5% / 7% discount does not stack with sale pricing**. For these sale items, the supplier-side working cost is therefore **$3.92 + $0.50 prep/label = $4.42 per unit**, before inbound transportation and Amazon fees. A six-piece case is **$26.52 supplier-side** before inbound transportation.
+
+Visible sale inventory captured from the logged-in page:
+
+### IN STOCK — advance to exact Amazon / economics screen
+
+- Captain America: Brave New World Ruth Bat-Seraph Funko Pop! Vinyl Figure #1367 — EE item `FU75992` — $3.92 — case 6.
+- Elio with 00000 Glow-in-the-Dark Funko Pop! Vinyl Figure and Buddy #1532 — EE item `FU77177` — $3.92 — case 6.
+- The Electric State Michelle Funko Pop! Vinyl Figure #1738 — EE item `FU79770` — $3.92 — case 6.
+- The Electric State Keats Funko Pop! Vinyl Figure #1740 — EE item `FU79772` — $3.92 — case 6.
+- House of the Dragon Mysaria Funko Pop! Vinyl Figure #25 — EE item `FU83462` — $3.92 — case 6.
+- M3GAN 2.0 M3GAN (Pink Suit) Funko Pop! Vinyl Figure #1908 — EE item `FU85641` — $3.92 — case 6.
+- Sakamoto Days Lu Shaotang Funko Pop! Vinyl Figure #2061 — EE item `FU86688` — $3.92 — case 6.
+- Borderlands 4 Amon Funko Pop! Vinyl Figure #1161 — EE item `FU86722` — $3.92 — case 6.
+- Borderlands 4 Harlowe Funko Pop! Vinyl Figure #1164 — EE item `FU86723` — $3.92 — case 6.
+- Borderlands 4 Rafa Funko Pop! Vinyl Figure #1163 — EE item `FU86724` — $3.92 — case 6.
+- Football Liverpool Ian Rush Funko Pop! Vinyl Figure #76 — EE item `FU89367` — $3.92 — case 6.
+- Rooster Fighter Elizabeth Funko Pop! Vinyl Figure #2163 — EE item `FU90662` — $3.92 — case 6.
+
+### SOLD OUT on the captured sale page
+
+- House of the Dragon Alys Rivers Funko Pop! Vinyl Figure #26 — EE item `FU83463`.
+- Juan Gabriel Fringe Suit Funko Pop! Vinyl Figure #463 — EE item `FU83389`.
+- League of Legends Yasuo Funko Pop! Vinyl Figure #1136 — EE item `FU86112`.
+- Borderlands 4 Vex Funko Pop! Vinyl Figure #1162 — EE item `FU86725`.
+
+### Initial public-market triage
+
+This sale is materially different from the ordinary-catalog research because the supplier cost is low enough that several items can plausibly survive FBA fees. However, the low sale price also appears to include slow-moving or heavily discounted Funko inventory, so a low wholesale price alone is not evidence of demand.
+
+Early exact-product checks found:
+
+- **Mysaria #25:** recent public sold-market observations included roughly $1.99 and $4.00 sales; do not advance unless Amazon evidence materially differs.
+- **Amon #1161:** public price-guide data showed a current new-market estimate around $10.29 with a recent $4.99 sale; weak.
+- **M3GAN #1908:** public price-guide data showed a new-market estimate around $9.98 with volatile recent sales; weak.
+- **Keats #1740:** a current product aggregator showed an Amazon offer around $5.99; weak if the exact Amazon listing is confirmed.
+- **Ruth Bat-Seraph #1367:** public collector pricing is higher, but Amazon itself previously liquidated the exact product below $5 in 2025. Current exact Amazon price and demand must be verified before treating the apparent collector value as durable.
+- **Elizabeth #2163:** recent sold-market evidence is stronger (roughly $17–$20 in several observations), but public data also showed an Amazon offer around $8.50; exact live Amazon price and seller competition remain unresolved.
+- **Lu Shaotang #2061:** public market estimates cluster around roughly $13–$14; potentially economic at a $4.42 supplier-side cost, but exact Amazon price/demand and fees are unresolved.
+- **Harlowe #1164 / Rafa #1163:** public new-market estimates around the mid-teens; potentially economic at the sale cost, but evidence is thin and exact Amazon screens are still required.
+- **Elio with 00000 #1532:** current manufacturer stock is unavailable and active secondary-market asks are materially above the EE sale cost; promising enough for exact Amazon / sold-market validation, but active asks alone are not demand evidence.
+
+### Sale-screen resolution
+
+This is the first EE source pool where supplier pricing is low enough to justify moving multiple items into the exact Amazon / FBA economics gate.
+
+Do **not** buy from the sale carousel alone. Next step is to resolve, for the strongest in-stock items, the exact UPC → ASIN match, Amazon selling eligibility/restrictions, live Buy Box / seller count / Amazon presence, demand signal, FBA fees, and inbound cost.
+
+Prioritize exact screening of **Elio #1532, Elizabeth #2163, Harlowe #1164, Rafa #1163, Lu Shaotang #2061, and Ian Rush #76**, while keeping Ruth #1367 as a cautionary check because of Amazon's prior deep discounting.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
