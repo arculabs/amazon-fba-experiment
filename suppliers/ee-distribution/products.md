@@ -831,6 +831,114 @@ No batch-11 item warrants a dealer-price lookup.
 
 Reverse sourcing continues to identify the right *kind* of product, but the strongest premiums in DC are generated after ordinary distributor inventory has disappeared. That suggests the eventual opportunity may depend on catching a product near the transition from normal availability to scarcity, rather than buying already-established high-value collectibles.
 
+
+## Research checkpoint — 2026-09-29 batch 12
+
+Batch 12 applied reverse sourcing to Star Wars 6-inch Black Series products. Exact-item pages were opened when broad price-guide summaries suggested a premium.
+
+### NOT ACTIONABLE — Sabine Wren (Ahsoka)
+
+- EE item: `HSF8733`
+- UPC: `5010996212061`
+- Public EE status: **Sold Out / no further shipments expected**.
+- Broad Black Series market data showed a meaningful premium over original retail.
+
+Decision: **NOT ACTIONABLE.** Supplier availability fails before dealer pricing matters.
+
+### NOT ACTIONABLE — The Stranger (Qimir)
+
+- EE item: `HSG1567`
+- Public EE status: **Sold Out / no further shipments expected**.
+- A Not Mint version also existed but is sold out and is outside the current first-experiment condition gate.
+- Broad market statistics showed a premium over original retail.
+
+Decision: **NOT ACTIONABLE.** No mint/orderable EE inventory.
+
+### NOT ACTIONABLE — Bastila Shan
+
+- EE item: `HSF7093`
+- Public EE status: **Sold Out**.
+- Broad market statistics showed an above-retail collector premium.
+
+Decision: **NOT ACTIONABLE.** Supplier inventory is unavailable.
+
+### NOT ACTIONABLE — Luke Skywalker (Imperial Light Cruiser)
+
+- EE item: `HSF5534`
+- UPC: `5010994179359`
+- Public EE status: **Sold Out / no further shipments expected**.
+- Broad Black Series market data showed a substantial premium versus original retail.
+
+Decision: **NOT ACTIONABLE.** Stronger market does not help when EE inventory is gone.
+
+### NOT ACTIONABLE — Anakin Skywalker (Revenge of the Sith)
+
+- EE item: `HSG1563`
+- UPC: `5010996314192`
+- Public EE status: **Sold Out / no further shipments expected**.
+- Broad Black Series market data showed a strong collector premium.
+
+Decision: **NOT ACTIONABLE.** Supplier availability fails.
+
+### NOT ACTIONABLE — Eleventh Brother
+
+- EE item: `HSG2570`
+- UPC: `5010996366078`
+- Public EE status: **Sold Out**.
+- Current broad price-guide value was roughly $38.96 versus $27.99 retail.
+
+Decision: **NOT ACTIONABLE.** Premium exists, but EE inventory is unavailable.
+
+### REJECTED at exact-market screen — Devon Izara
+
+- EE item: `HSG2584`
+- Correct UPC from EE / specialty retail: `5010996366016`
+- Amazon ASIN: `B0FH7Q6K6P`
+- Public EE status: **IN STOCK**, $27.99.
+- Package: approximately **9 × 5 × 2 in**, listed weight **0.35 lb**.
+- A broad ActionFigure411 price-guide row showed a much higher apparent value, but the exact-item page showed:
+  - Amazon approximately **$27.97**
+  - recent sold-auction average approximately **$23.00** from 4 qualifying sales
+  - active Buy It Now average approximately **$28.93**
+- An exact-product specialty retailer listed the correct UPC at $34.99.
+
+Decision: **REJECTED at exact-market screen.** The broad summary was misleading for current sourcing. Exact current Amazon and sold-auction evidence show no usable premium. This reinforces that summary-price tables are discovery tools only; exact-item pages are required before economics.
+
+### NOT ADVANCED — Marrok 2026 reissue
+
+- EE item: `HSG2592`
+- UPC: `5010996423016`
+- Public EE status: **Pre-Sold Out / estimated November 2026**, $27.99.
+- Broad market tables showed a large historical/current premium for the name, but this is a 2026 reissue and is not currently orderable from EE.
+
+Decision: **NOT ADVANCED.** Reissue timing and lack of current orderability prevent first-experiment use.
+
+### REJECTED at exact-market screen — Zeb Orrelios Deluxe (The Mandalorian & Grogu, 2026)
+
+- EE item: `HSG2815`
+- UPC: `5010996405005`
+- Amazon ASIN: `B0FJR8XKNX`
+- Public EE status: **IN STOCK**, $34.99.
+- Package: approximately **9 × 6 × 2 in**, listed weight **0.55 lb**.
+- Exact current market:
+  - Amazon approximately **$34.89**
+  - sold-auction average **$58.00**, but based on only **one** qualifying sale
+  - active Buy It Now average approximately **$41.48**
+- The single high sold auction is insufficient to override current Amazon availability around MSRP.
+
+Decision: **REJECTED at exact-market screen.** Current Amazon price is essentially retail; one high sale is not durable demand evidence.
+
+### Batch 12 resolution
+
+No batch-12 item warrants a manual EE dealer-price lookup.
+
+Two important research controls were validated:
+
+1. **Broad price-guide summaries are discovery signals, not purchase evidence.** Devon Izara looked highly profitable in the aggregate table but failed immediately on its exact page.
+2. **Thin sold-auction evidence cannot override live retail competition.** Zeb showed one $58 sale while Amazon remained available around $34.89.
+
+Continue reverse sourcing in a different collector line, preserving the same exact-item validation standard.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
