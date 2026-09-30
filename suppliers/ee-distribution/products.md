@@ -309,7 +309,7 @@ The strongest closeout opportunities found were mixed bundles/cases, which may b
 
 Batch 5 shifted to newly released Marvel Legends items, looking for compact figures with an established exact Amazon identity and enough current Amazon premium to justify dealer-side verification.
 
-### WATCH — Hulk Marvel Legends Series Doc Samson 6-Inch Action Figure
+### REJECTED — Hulk Marvel Legends Series Doc Samson 6-Inch Action Figure
 
 - EE/public item code: `HSG2407`
 - Hasbro model: `G2407`
@@ -331,9 +331,15 @@ Batch 5 shifted to newly released Marvel Legends items, looking for compact figu
 - At a $37.99 selling price, the maximum effective EE cost before EE→FBA transportation is about **$21.26/unit**.
 - Applying the 7% Uriel first-order discount and $0.50 EE labeling/packaging fee, the **maximum viable EE dealer list price is about $22.33/unit before EE→FBA transportation**.
 - Every $1.00/unit of actual EE→FBA transportation lowers that dealer-price ceiling by about **$1.08**.
-- Dealer price, dealer case quantity/MOQ, and any Amazon/third-party marketplace restriction remain unresolved.
+- Dealer portal check from 2026-09-29: **IN STOCK**.
+- Pieces per case: **4**.
+- Dealer pricing: 1–3 cases / 4–12 pcs = **$29.80 per piece**; 4+ cases / 16+ pcs = **$27.60**.
+- At the smallest tier, the 7% first-order discount plus $0.50 EE prep/labeling yields an effective EE cost of **$28.21/unit before EE→FBA transportation**.
+- At the screened $37.99 Amazon sale price, estimated economics are about **-$1.95/unit before EE→FBA transportation**, using the previously recorded referral/FBA/surcharge/inbound-placement assumptions.
+- The 16+ piece tier lowers effective EE cost to about **$26.17/unit before freight**, leaving only about **$0.10/unit before freight** at the screened $37.99 sale price and still falling far short of the $5 target.
+- No Amazon / third-party marketplace prohibition is visible in the supplied dealer-page screenshot.
 
-Decision: **WATCH — dealer portal check justified.** This is not a strong market premium, so the dealer price needs to be comfortably below the ~$22.33 pre-freight ceiling to become a candidate.
+Decision: **REJECTED.** The small-order tier loses money before freight, and the volume tier requires too much inventory while still providing effectively no margin before freight.
 
 ### REJECTED at market screen — Hulk Marvel Legends Series Hulk 2099 6-Inch Action Figure
 
@@ -348,16 +354,11 @@ Decision: **WATCH — dealer portal check justified.** This is not a strong mark
 
 Decision: **REJECTED at market screen.** The current Amazon price and recent sold evidence do not create enough wholesale-to-FBA spread to justify a dealer-price lookup.
 
-### Batch 5 next action
+### Batch 5 resolution
 
-Check only `HSG2407` / UPC `5010996411709` (Doc Samson) in the EE Distribution dealer portal for:
+The dealer-side check for `HSG2407` was completed on 2026-09-29 and Doc Samson is **REJECTED**.
 
-1. dealer price by quantity tier;
-2. current stock/orderability;
-3. pieces per case / MOQ; and
-4. any Amazon or third-party marketplace restriction.
-
-The small-order dealer price should be comfortably below **$22.33/unit before EE→FBA transportation** to justify advancement.
+No candidate emerged from batch 5. Proceed to another small research batch and checkpoint before asking for additional dealer-portal lookups.
 
 ## Entry standard for future research
 
