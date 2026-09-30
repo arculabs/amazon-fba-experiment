@@ -1250,6 +1250,51 @@ Even at **$14.99**, the residual before inbound/storage is only about **$3.97/un
 
 Decision: **REJECTED at market/economics screen.** The occasional high sold price does not overcome current low-priced retail/Amazon competition and low transaction volume. Do not spend additional effort resolving the exact ASIN or Amazon seller eligibility unless pricing materially changes.
 
+
+### Exact screen — REJECTED — Borderlands 4 Harlowe #1164
+
+Logged-in EE product-page evidence captured 2026-09-29:
+
+- EE item: `FU86723`
+- UPC: `889698867238`
+- Status: **IN STOCK**
+- Sale price: **$3.92 each**
+- Case pack: **6**
+- Case price: **$23.52**
+- EE prep/label charge: **$0.50/unit**
+- Effective supplier-side cost before inbound: **$4.42/unit**
+- Package: approximately **6.50 × 4.75 × 3.75 in**
+- Listed weight: **0.40 lb**
+- No marketplace/Amazon restriction was shown on the captured EE page; Amazon seller eligibility remains unresolved.
+
+Using Amazon's large-standard dimensional-weight rule, `6.50 × 4.75 × 3.75 / 139 ≈ 0.83 lb`, or about **13.3 oz billable weight**, placing this SKU in the large-standard 12–16 oz band.
+
+Current public market evidence:
+- PriceCharting identifies the exact UPC and reports current market values around **$13 in-box / $15.58 new**, based on completed-sale history.
+- Funko itself currently has the exact item on sale at **$10.49** (down from $14.99).
+- Books-A-Million lists it at **$14.99** in stock.
+- GameStop lists it at **$15.99** in stock.
+- Multiple specialty retailers are clustered around roughly **$14.90–$14.99**.
+- PriceCharting currently shows **no Amazon ASIN** for the exact UPC.
+
+Using the 2026 non-peak non-apparel large-standard 12–16 oz FBA fee of about **$4.76 after the current 3.5% fuel/logistics surcharge**:
+
+At a **$10.49** selling price:
+- referral fee (15%): about $1.57
+- FBA fulfillment + surcharge: about $4.76
+- EE sale + prep/label: $4.42
+- estimated result before inbound/storage: about **-$0.26/unit**
+
+At the current **$15.58 new-market estimate**:
+- referral fee (15%): about $2.34
+- FBA fulfillment + surcharge: about $4.76
+- EE sale + prep/label: $4.42
+- residual before inbound/storage: about **$4.06/unit**
+
+A selling price around **$17.25+** would be needed to approach the current $5/unit experiment target after a modest inbound allowance. Current manufacturer and retailer competition is materially below that level.
+
+Decision: **REJECTED at market/economics screen.** The EE discount is real, but the current retail market is too competitive and the margin does not clear the experiment threshold. Do not spend additional effort resolving Amazon eligibility unless the market price materially changes.
+
 ### Sale-screen resolution
 
 This is the first EE source pool where supplier pricing is low enough to justify moving multiple items into the exact Amazon / FBA economics gate.
