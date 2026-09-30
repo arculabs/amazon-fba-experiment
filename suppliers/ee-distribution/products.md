@@ -227,6 +227,83 @@ The batch reinforces two sourcing lessons for this experiment:
 
 Proceed to the next small batch from a different product cluster rather than continuing to force Funko or same-name reissues.
 
+
+## Research checkpoint — 2026-09-29 batch 4
+
+Batch 4 tested Entertainment Earth exclusives, outlet bundles, and mixed collector cases for situations where exclusivity or closeout pricing might create a stronger Amazon spread.
+
+### NOT ADVANCED — Dandadan Turbo Granny Glow-in-the-Dark Funko Pop! #2291
+
+- Public EE item code: `FUBN92067EE`
+- UPC: `889698920674`
+- Public Entertainment Earth price: **$16.99**, in stock during the screen.
+- Current retail competition was generally around **$14–$17**, with some higher specialty outliers.
+
+Decision: **NOT ADVANCED.** No demonstrated marketplace premium exists to justify a dealer-price lookup.
+
+### NOT ADVANCED — X-Men '97 Jean Grey (Wasteland) Funko Pop! #1597
+
+- Public EE item code: `FU97X92066EE`
+- UPC: `889698920667`
+- Public Entertainment Earth price: **$16.99**.
+- Collector-market estimate observed around **$15**, with a recent downward trend and low sales volume.
+- Current retail offers were broadly in the mid-teens to low-$20s.
+
+Decision: **NOT ADVANCED.** Weak premium and weak velocity make this unsuitable for the first FBA experiment.
+
+### NOT ADVANCED — One Piece Monkey D. Luffy Funko Pop! #2334
+
+- Public EE item code: `FUEL92034EE`
+- UPC: `889698920346`
+- Public Entertainment Earth price: **$16.99**.
+- Current retail offers ranged from the high teens into the $20s, including sale pricing near $20–$24.
+- A trustworthy exact Amazon ASIN was not established from the public screen.
+
+Decision: **NOT ADVANCED.** The exact-ASIN gate is unresolved and current retail competition does not show enough premium to justify dealer-side work.
+
+### FUTURE MULTI-SKU STRATEGY — DC Super Powers Wave 14 case
+
+- Public EE case item: `MF18075AR`
+- Public case price during the screen: **$80**, in stock.
+- Case contains six individually boxed products: Batman Beyond, Starfire, Raven, Wildcat, Dr. Midnight, and Black Adam.
+- Individual MSRP is about **$12.99 each**.
+- Exact Amazon identities were established for several figures:
+  - Black Adam — UPC `787926181098`, ASIN `B0HHP4P6J8`
+  - Dr. Midnight — UPC `787926181296`, ASIN `B0HHL2VB36`
+  - Raven — UPC `787926180930`, ASIN `B0HHKNPKMT`
+  - Starfire — UPC `787926180916`, ASIN `B0HHK399C6`
+- Amazon asking prices were materially above MSRP for several figures, but recent sold-auction averages were generally only around **$20–$21**.
+- Batman Beyond and Wildcat did not have sufficiently established Amazon identities in this screen.
+- Selling the mixed case as one sealed product did not show a clear margin at observed retail pricing.
+
+Decision: **NOT ADVANCED for the current milestone.** Splitting a mixed case into six ASINs conflicts with the current one-SKU first experiment. Preserve this as a possible future multi-SKU sourcing pattern if the first FBA loop succeeds.
+
+### WATCH — CultureFly 3-Deep VHS Jurassic Park + Friday the 13th + IT bundle
+
+- Public EE item code: `CFVHSBUN1`
+- Public outlet price during the screen: **$30** versus a stated prior value of $80.97.
+- Bundle contains three individually boxed products.
+- No exact Amazon listing for the three-item bundle was established.
+- Individual products showed some specialty-market pricing above the implied $10/unit bundle allocation, but pursuing them would again require splitting into multiple SKUs and exact ASIN validation.
+
+Decision: **WATCH for a future multi-SKU/listing strategy, not the current one-SKU experiment.**
+
+### NOT ADVANCED — Other outlet/general items screened
+
+The following were screened but did not justify dealer-side work:
+
+- Alien Candy & Clean Bundle `SUP26ALBUN` — mixed bundle; inconsistent with current one-SKU milestone.
+- Friday the 13th Part 3 3-Deep VHS Statue `CF96090` — public EE pricing around the low-$20s versus market roughly $25–$40; exact Amazon identity unresolved and spread not compelling enough.
+- Annabelle Vinyl Figure `DFS6007197` — EE sale pricing around $18.39 versus market around $20.99.
+- The Nun Vinyl Figure `DFS6007200` — similar economics and very limited stock.
+- Spooky Countdown 2023 Funko Advent Calendar `FU72360` — broad market pricing around $25–$35 with no meaningful premium over EE retail.
+
+### Batch 4 resolution
+
+No batch-4 item warrants a manual EE dealer-price lookup for the current first-SKU milestone.
+
+The strongest closeout opportunities found were mixed bundles/cases, which may become useful after the one-SKU sourcing/FBA loop is proven. Do not expand scope yet merely because a mixed case appears cheaper.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
