@@ -8,7 +8,7 @@ The first experiment is intended to learn, not to maximize scale.
 
 ## Current milestone
 
-Select one viable first SKU from EE Distribution and validate the complete landed economics before placing an order.
+Validate a **market-first, brand-authorized wholesale sourcing path** before spending more time on broad EE Distribution catalog research. Select the first viable SKU from whichever legitimate source best satisfies the experiment constraints; EE remains one possible supplier, not the project boundary.
 
 ## Current experiment bounds
 
@@ -22,14 +22,15 @@ Select one viable first SKU from EE Distribution and validate the complete lande
 
 ## Research sequence
 
-1. Distributor item is in stock / practically orderable.
-2. Marketplace resale is permitted.
-3. Exact SKU/UPC/model is matched to the exact Amazon ASIN.
-4. Review Amazon price, demand/rank signals, review depth, seller count, Amazon presence, and price stability where available.
-5. Estimate referral fee, FBA fulfillment, distributor prep/labeling, inbound shipping, and other known per-unit costs.
-6. Calculate the maximum viable distributor buy price.
-7. Compare that threshold with the actual dealer price.
-8. Record the outcome in the supplier product ledger before moving on.
+1. Start with Amazon market evidence: demand, ASP, price stability, seller count, Amazon Retail presence, size/weight, and likely inventory-turn potential.
+2. Identify the brand owner and confirm whether third-party Amazon resale is permitted.
+3. Prefer direct brand authorization; otherwise use a wholesale distributor whose relationship to the brand is verified.
+4. Require an exact SKU/UPC/model → ASIN identity match.
+5. Estimate referral fee, FBA fulfillment, prep/labeling, inbound shipping, and other known per-unit costs.
+6. Calculate the maximum viable buy price.
+7. Compare that threshold with actual brand/distributor terms, MOQ, and shipping/prep workflow.
+8. Evaluate both realistic per-unit profit and expected 30-day dollar contribution / inventory-turn time.
+9. Record the outcome before expanding the research batch.
 
 ## Evidence standard
 
