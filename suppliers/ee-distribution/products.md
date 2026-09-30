@@ -360,6 +360,75 @@ The dealer-side check for `HSG2407` was completed on 2026-09-29 and Doc Samson i
 
 No candidate emerged from batch 5. Proceed to another small research batch and checkpoint before asking for additional dealer-portal lookups.
 
+
+## Research checkpoint — 2026-09-29 batch 6
+
+Batch 6 tested three different compact-product clusters: S.H.Figuarts, Nendoroids, and small card games. The goal was to find categories with lower dimensional-FBA burden and stronger collector demand than the standard Hasbro/McFarlane figures already screened.
+
+### NOT ADVANCED — X-Men Wolverine Gamerverse S.H.Figuarts
+
+- EE/public item code: `BLFBAS69792`
+- UPC/JAN: `4573102697929`
+- Public Entertainment Earth status: **IN STOCK**, **$99.99**.
+- Package size from Entertainment Earth: about **8 × 6.5 × 2 in**, weight **0.55 lb**.
+- Current US competing offers observed around **$83.90–$100**, including import/specialty retailers below EE public retail.
+- No reliable current Amazon-US premium above those competing prices was established.
+
+Decision: **NOT ADVANCED.** The product does not show a stable US marketplace premium over current competing retail, so no dealer-price lookup is justified.
+
+### NOT ADVANCED — Metal Gear Solid Solid Snake / Raiden Nendoroids
+
+- EE/public item codes: `DC19956` (Solid Snake) and `DC19957` (Raiden).
+- Public Entertainment Earth price: **$60.99 each**, in stock during the screen.
+- Current market observations:
+  - Solid Snake available around **$64.99** at Walmart.
+  - Raiden available around **$67.95** at eStarland.
+  - Other market references put current Amazon/secondary pricing for the reissues roughly in the mid-$50s to high-$60s.
+- Historic Amazon preorder prices were substantially lower, showing that these reissues have not maintained a scarcity premium.
+
+Decision: **NOT ADVANCED.** Current market prices sit too close to EE public retail to justify dealer-side effort.
+
+### NOT ADVANCED — Nura: Rise of the Yokai Clan Rikuo Nura (Night) Nendoroid
+
+- EE/public item code: `UTCGAS20462`
+- Barcode: `4580590204621`
+- Public Entertainment Earth status: **IN STOCK / very low stock**, **$75.99**.
+- Current competing retail includes BigBadToyStore around **$73.99** and Crunchyroll clearance around **$38.49**.
+- Good Smile US reference price was **$48.99** when available.
+
+Decision: **NOT ADVANCED.** Deep current discounting elsewhere destroys the apparent scarcity premium.
+
+### REJECTED at market screen — UNO Elite Formula 1 2025 Core Edition Starter Pack
+
+- EE/public item code: `MTJLV42`
+- Mattel product number: `JLV42`
+- Public Entertainment Earth price: **$17.99**.
+- Mattel direct price: about **$17.00**.
+- Amazon deal history in 2026 showed the exact starter pack at **$8.99** during promotion; ASIN `B0FDH3LF58`.
+- This product is broadly distributed and price-sensitive.
+
+Decision: **REJECTED at market screen.** No durable Amazon premium exists.
+
+### NOT ADVANCED — Hot Wheels / Matchbox assortment cases
+
+- Multiple in-stock Hot Wheels and Matchbox cases were screened, including Formula 1 2-pack cases, Team Transport cases, and premium collector cases.
+- These are **mixed assortments**, meaning the distributor case contains multiple distinct retail SKUs/ASINs.
+- Splitting a case would turn the first experiment into a multi-SKU inventory exercise and complicate exact-ASIN economics.
+
+Decision: **NOT ADVANCED for the current milestone.** Preserve as a future strategy after one single-SKU FBA loop is proven.
+
+### Batch 6 resolution
+
+No batch-6 item warrants a manual EE dealer-price lookup.
+
+Across six batches, the repeated pattern is now strong enough to influence search strategy: ordinary collectible lines that are broadly available at retail are unlikely to work unless EE dealer pricing is dramatically below public retail or the Amazon listing has a genuine, durable scarcity premium.
+
+Future batches should prioritize:
+- supplier closeouts or unusually deep dealer discounts;
+- exact single-SKU cases rather than mixed assortments;
+- limited items with verifiable Amazon scarcity rather than merely high secondary asking prices;
+- products where current competing retail is already materially above MSRP/public EE retail.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
