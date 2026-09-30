@@ -762,6 +762,75 @@ Reverse sourcing is materially better than broad catalog scanning because it sep
 
 Continue reverse sourcing into other collector lines rather than returning to broad EE page-by-page browsing.
 
+
+## Research checkpoint — 2026-09-29 batch 11
+
+Batch 11 applied reverse sourcing to McFarlane DC Multiverse products with strong recent collector-market premiums.
+
+### NOT ACTIONABLE — Batman & Robin Poison Ivy
+
+- Original retail: $24.99.
+- Recent market-value stats: approximately **$124.99**, roughly 4× retail.
+- Exact public Entertainment Earth item: `MF15639`.
+- Public Entertainment Earth status: **Sold Out / no further shipments expected**.
+- Package: approximately **11 × 7.5 × 3.75 in**, listed weight **0.75 lb**.
+
+Decision: **NOT ACTIONABLE.** Excellent market premium, failed supplier-availability gate.
+
+### NOT ACTIONABLE — Green Lantern Hal Jordan Silver Age
+
+- UPC: `787926171617`
+- Recent market-value stats: approximately **$85.99** versus original retail $24.99.
+- Exact EE item: `MF17161`.
+- Public Entertainment Earth status: **Sold Out / no further shipments expected**.
+- A Not Mint version also existed but is sold out and would be outside the first-experiment condition gate regardless.
+
+Decision: **NOT ACTIONABLE.** Strong premium, no mint/orderable EE inventory.
+
+### NOT ACTIONABLE — Hawkman Zero Hour Collector Edition
+
+- Recent market-value stats: approximately **$100.49** versus original retail $29.99.
+- Exact EE item: `MF15282`.
+- Public Entertainment Earth status: archived / no longer for sale.
+- The figure also had randomly inserted chase variants, which would complicate deterministic SKU expectations even if stock existed.
+
+Decision: **NOT ACTIONABLE.** Supplier inventory unavailable.
+
+### NOT ACTIONABLE — Wonder Woman "Who is Wonder Woman" Collector Edition
+
+- Recent market-value stats: approximately **$96.05** versus original retail $29.99.
+- Exact EE item: `MF17094`.
+- Public Entertainment Earth status: archived / no longer for sale.
+
+Decision: **NOT ACTIONABLE.** Strong market premium, failed EE availability gate.
+
+### NOT ACTIONABLE — Larfleeze DC Classic
+
+- UPC: `787926176872`
+- Amazon ASIN: `B0G36BM7FK`
+- Amazon reference around **$39.95** versus $26.99 retail.
+- Recent sold-auction average approximately **$32.37** from 24 sales.
+- Exact EE item: `MF17687`.
+- Public Entertainment Earth status: **Sold Out**.
+
+Decision: **NOT ACTIONABLE.** Moderate premium, but no supplier inventory.
+
+### NOT ADVANCED — Wonder Woman McFarlane Vault Collection
+
+- UPC: `787926181678`
+- Amazon ASIN: `B0H1DCMXDK`
+- Original retail: $26.99.
+- Very limited recent sold evidence averaged roughly **$34.48** from only two sales.
+- Public EE item: `MF18167`, **pre-order estimated October 2026**, $26.99.
+
+Decision: **NOT ADVANCED.** Too little market evidence and not currently in stock; no reason to reserve first-experiment capital around a pre-order.
+
+### Batch 11 resolution
+
+No batch-11 item warrants a dealer-price lookup.
+
+Reverse sourcing continues to identify the right *kind* of product, but the strongest premiums in DC are generated after ordinary distributor inventory has disappeared. That suggests the eventual opportunity may depend on catching a product near the transition from normal availability to scarcity, rather than buying already-established high-value collectibles.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
