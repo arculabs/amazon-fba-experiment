@@ -14,6 +14,7 @@ Confirmed by phone on 2026-09-29:
 - The $0.50 per-item charge is **non-refundable even if an order is canceled**.
 - The first order receives a **7% discount when placed through Uriel Gonzalez**.
 - If the first order is not placed through him, the first-order discount is **5%**.
+- The **5% / 7% first-order discount does not stack with EE sale pricing**; sale items use the displayed sale price instead.
 - No other special terms were identified in that conversation.
 
 For first-order screening through Uriel, the working supplier-side unit-cost formula is:
@@ -23,6 +24,14 @@ effective EE unit cost = dealer price × 0.93 + $0.50
 ```
 
 This formula does **not** include Amazon referral/FBA fees, inbound transportation, or other order-specific costs.
+
+For EE sale items, use:
+
+```
+effective EE unit cost = displayed sale price + $0.50
+```
+
+Do not apply the first-order 5% / 7% discount again to a sale SKU.
 
 ## Product research
 
