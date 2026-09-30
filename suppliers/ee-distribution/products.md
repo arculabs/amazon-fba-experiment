@@ -1171,6 +1171,44 @@ Early exact-product checks found:
 - **Harlowe #1164 / Rafa #1163:** public new-market estimates around the mid-teens; potentially economic at the sale cost, but evidence is thin and exact Amazon screens are still required.
 - **Elio with 00000 #1532:** current manufacturer stock is unavailable and active secondary-market asks are materially above the EE sale cost; promising enough for exact Amazon / sold-market validation, but active asks alone are not demand evidence.
 
+
+### Exact screen — REJECTED — Elio with 00000 #1532
+
+Logged-in EE product-page evidence captured 2026-09-29:
+
+- EE item: `FU77177`
+- UPC: `889698771771`
+- Status: **IN STOCK**
+- Sale price: **$3.92 each**
+- Case pack: **6**
+- Case price: **$23.52**
+- Sale pricing is unchanged at the displayed 6+ case tier.
+- EE prep/label charge: **$0.50/unit**
+- Effective supplier-side cost before inbound: **$4.42/unit**
+- Package: approximately **6.50 × 4.75 × 3.75 in**
+- Listed weight: **0.30 lb**
+- No marketplace/Amazon restriction was shown on the captured EE product page; Amazon seller eligibility remains unresolved.
+
+The box thickness makes this a likely **large-standard** FBA item rather than small-standard. Using Amazon's 2026 dimensional-weight rule for large-standard items, `6.50 × 4.75 × 3.75 / 139 ≈ 0.83 lb`, which places it around the 12–16 oz billable band. The 2026 non-peak large-standard fulfillment rate for a $10–$50 item in that band is $4.60 before the 3.5% fuel/logistics surcharge, or about **$4.76** after surcharge. Peak-season fulfillment beginning 2026-10-15 is higher.
+
+Public current-market evidence is too weak for the experiment:
+
+- POPs.Today estimates the current value at about **$5.00**, reports only about **1 product/month** volume, and shows recent sold observations around **$4.99–$9.00**.
+- FYE has the exact UPC on sale at **$9.99**.
+- Current eBay asks commonly cluster around roughly **$13–$22**, but active asks are not transacted-demand evidence.
+
+At a hypothetical $14.99 Amazon selling price, before inbound transportation or storage, approximate unit economics would be:
+
+- selling price: $14.99
+- 15% Toys & Games referral fee: about $2.25
+- FBA fulfillment + current fuel surcharge: about $4.76
+- EE sale + prep/label: $4.42
+- residual before inbound/storage: only about **$3.56**
+
+A selling price roughly in the **high-$17s** would be needed to approach the current $5/unit target after a modest inbound allowance, and the observed market does not support that level with durable demand.
+
+Decision: **REJECTED at market/economics screen.** Do not spend additional effort resolving the exact Amazon ASIN or seller eligibility for this SKU unless market conditions materially change.
+
 ### Sale-screen resolution
 
 This is the first EE source pool where supplier pricing is low enough to justify moving multiple items into the exact Amazon / FBA economics gate.
