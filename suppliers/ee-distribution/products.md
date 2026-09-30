@@ -1189,7 +1189,7 @@ Logged-in EE product-page evidence captured 2026-09-29:
 - Listed weight: **0.30 lb**
 - No marketplace/Amazon restriction was shown on the captured EE product page; Amazon seller eligibility remains unresolved.
 
-The box thickness makes this a likely **large-standard** FBA item rather than small-standard. Using Amazon's 2026 dimensional-weight rule for large-standard items, `6.50 × 4.75 × 3.75 / 139 ≈ 0.83 lb`, which places it around the 12–16 oz billable band. The 2026 non-peak large-standard fulfillment rate for a $10–$50 item in that band is $4.60 before the 3.5% fuel/logistics surcharge, or about **$4.76** after surcharge. Peak-season fulfillment beginning 2026-10-15 is higher.
+The box thickness makes this a likely **large-standard** FBA item rather than small-standard. Using Amazon's 2026 dimensional-weight rule for large-standard items, `6.50 × 4.75 × 3.75 / 139 ≈ 0.83 lb`, which places it in the 12–16 oz billable band. The 2026 non-peak large-standard fulfillment rate for a $10–$50 item in that band is **$5.19** before the 3.5% fuel/logistics surcharge, or about **$5.37** after surcharge. Peak-season fulfillment beginning 2026-10-15 is higher.
 
 Public current-market evidence is too weak for the experiment:
 
@@ -1201,13 +1201,54 @@ At a hypothetical $14.99 Amazon selling price, before inbound transportation or 
 
 - selling price: $14.99
 - 15% Toys & Games referral fee: about $2.25
-- FBA fulfillment + current fuel surcharge: about $4.76
+- FBA fulfillment + current fuel surcharge: about $5.37
 - EE sale + prep/label: $4.42
-- residual before inbound/storage: only about **$3.56**
+- residual before inbound/storage: only about **$2.95**
 
-A selling price roughly in the **high-$17s** would be needed to approach the current $5/unit target after a modest inbound allowance, and the observed market does not support that level with durable demand.
+A selling price roughly around **$18** would be needed to approach the current $5/unit target after a modest inbound allowance, and the observed market does not support that level with durable demand.
 
 Decision: **REJECTED at market/economics screen.** Do not spend additional effort resolving the exact Amazon ASIN or seller eligibility for this SKU unless market conditions materially change.
+
+
+### Exact screen — REJECTED — Rooster Fighter Elizabeth #2163
+
+Logged-in EE product-page evidence captured 2026-09-29:
+
+- EE item: `FU90662`
+- UPC: `889698906623`
+- Status: **IN STOCK**
+- Sale price: **$3.92 each**
+- Case pack: **6**
+- Case price: **$23.52**
+- Sale pricing is unchanged at the displayed 6+ case tier.
+- EE prep/label charge: **$0.50/unit**
+- Effective supplier-side cost before inbound: **$4.42/unit**
+- Package: approximately **6.50 × 4.50 × 3.50 in**
+- Listed weight: **0.25 lb**
+- No marketplace/Amazon restriction was shown on the captured EE page; Amazon seller eligibility remains unresolved.
+
+Using Amazon's large-standard dimensional-weight rule, `6.50 × 4.50 × 3.50 / 139 ≈ 0.74 lb`, or about **11.8 oz billable weight**, placing this SKU in the large-standard 8–12 oz band.
+
+Current 2026 non-peak FBA fulfillment economics:
+- below $10 selling price: $4.17 base fulfillment fee, about **$4.32** after the current 3.5% fuel/logistics surcharge;
+- $10–$50 selling price: $4.99 base fulfillment fee, about **$5.16** after surcharge;
+- Toys & Games referral fee: **15%**.
+
+Current public market evidence is contradictory but unfavorable for FBA:
+- POPs.Today reports an estimated value around **$20.10**, but only about **1 sale/month** and recent observed sold prices around **$10.49–$20.09**.
+- The same current market page surfaces an Amazon offer around **$8.50**.
+- Other current retail competition includes Walmart around **$11.08**, BoxLunch around **$6.36**, and multiple specialty sellers in roughly the low-to-mid teens.
+
+At the surfaced **$8.50 Amazon price**, approximate unit economics before inbound/storage are:
+- selling price: $8.50
+- referral fee: about $1.28
+- FBA fulfillment + surcharge: about $4.32
+- EE sale + prep/label: $4.42
+- estimated result before inbound/storage: about **-$1.51/unit**
+
+Even at **$14.99**, the residual before inbound/storage is only about **$3.16/unit**. A selling price around **$18** is required to approach the current $5/unit experiment target after a modest inbound allowance, but current Amazon and other retail competition is materially below that level and observed sales volume is thin.
+
+Decision: **REJECTED at market/economics screen.** The occasional high sold price does not overcome current low-priced retail/Amazon competition and low transaction volume. Do not spend additional effort resolving the exact ASIN or Amazon seller eligibility unless pricing materially changes.
 
 ### Sale-screen resolution
 
