@@ -41,3 +41,16 @@ See `suppliers/ee-distribution/README.md` for the supplier-specific terms.
 For the initial one-SKU FBA experiment, source straightforward **new / normal retail-condition inventory**.
 
 EE listings explicitly marked **Not Mint** are outside the current experiment because packaging condition is not guaranteed. They may be researched later as a separate condition-sensitive liquidation strategy, but they should not be mixed into the first distributor-to-FBA validation loop.
+
+
+## EE sourcing discovery priority
+
+Research through 2026-09-29 established that broad scanning of ordinary EE inventory is low-yield for the first Amazon FBA experiment because displayed dealer cost is commonly too close to live retail.
+
+Prioritize sourcing discovery in this order:
+
+1. **Current EE Distribution wholesale sales / sales-rep specials** for in-stock, Amazon-permitted, single-SKU inventory.
+2. **Reverse sourcing** from exact Amazon products with a durable live-market premium while EE still has inventory.
+3. Ordinary catalog scanning only when there is a specific reason to expect unusual margin.
+
+Do not treat EE/Entertainment Earth **Drop Zone** as a closeout feed; it is an upcoming-product-launch surface.
