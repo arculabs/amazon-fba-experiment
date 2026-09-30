@@ -666,6 +666,102 @@ The next research batches should use **reverse sourcing**:
 
 This should reduce time spent screening products that never had enough Amazon-side margin to begin with.
 
+
+## Research checkpoint — 2026-09-29 batch 10
+
+Batch 10 was the first **reverse-sourcing** batch: start with products that already have verified collector-market / Amazon premiums, then search EE for the exact identity.
+
+This proved much more efficient than forward-scanning EE inventory.
+
+### NOT ACTIONABLE — G.I. Joe Classified #148 Leatherneck
+
+- UPC: `5010996290434`
+- Amazon ASIN: `B0D9528T2B`
+- ActionFigure411 current Amazon reference: approximately **$39.15**.
+- Recent sold-auction average: approximately **$33.99** from 4 recent sales.
+- Original retail: $24.99.
+- Exact EE item: `HSG1067`.
+- Public Entertainment Earth status: **Sold Out / no further shipments expected**.
+- Package: approximately **8.75 × 5 × 2 in**, listed weight **0.45 lb**.
+
+Decision: **NOT ACTIONABLE.** The premium is real enough to investigate, but EE no longer has orderable inventory.
+
+### NOT ACTIONABLE — G.I. Joe Classified 60th Anniversary Action Soldier - Infantry
+
+- UPC: `5010996210555`
+- Recent sold-auction average: approximately **$59.20** versus original retail **$34.99**, based on 16 recent sold auctions.
+- Exact EE item: `HSF9678`.
+- Public Entertainment Earth status: **Sold Out**.
+- Package: approximately **9 × 8 × 2 in**, listed weight **0.65 lb**.
+
+Decision: **NOT ACTIONABLE.** Strong secondary-market spread, but no current EE inventory.
+
+### NOT ACTIONABLE — G.I. Joe Classified #151 Trench Viper & Cobra Modular Fortification
+
+- UPC: `5010996290700`
+- Original retail: $54.99.
+- Recent sold-auction average: approximately **$139.99** from 16 recent sales; active Buy It Now average around **$152.28**.
+- The product ranks among the more valuable current Classified releases.
+- No current orderable EE / Entertainment Earth exact-product listing was found in the reverse screen.
+
+Decision: **NOT ACTIONABLE.** This is exactly the kind of market premium reverse sourcing should find, but supplier availability fails.
+
+### NOT ACTIONABLE — G.I. Joe Classified #140 Nemesis Immortal
+
+- Amazon ASIN: `B0DMTNRY8D`
+- Original retail: $44.99.
+- Recent sold-auction average observed around **$142.48** from 25 recent sales.
+- The item was reissued in 2026, but no current orderable EE / Entertainment Earth exact-product listing was found.
+
+Decision: **NOT ACTIONABLE.** Strong market demand/premium, but EE availability fails.
+
+### NOT ADVANCED — G.I. Joe Classified Retro Courtney "Cover Girl" Krieger
+
+- UPC: `5010996297570`
+- Amazon ASIN: `B0DP18TYRC`
+- Amazon reference approximately **$38.89**.
+- Recent sold-auction average approximately **$33.47** from 13 recent sales.
+- Public Entertainment Earth exact item: `HSG0960`, $26.99.
+- Public availability evidence is inconsistent across crawls: an older result showed in stock, while a fresher product result showed a **February 2027 pre-order**.
+- EE also has a mixed Wave 5 case containing Cover Girl, Flint, and Tele-Viper, but that conflicts with the current one-SKU milestone.
+
+Decision: **NOT ADVANCED.** The premium is only moderate using actual sold prices, current single-SKU availability is not reliably orderable now, and the mixed case is outside scope.
+
+### NOT ADVANCED — Marvel Legends Ultimate Universe Wolverine
+
+- EE item: `HSG2425`
+- UPC: `5010996382559`
+- Amazon ASIN: `B0FHS4MSQV`
+- Public Entertainment Earth: **IN STOCK**, $27.99.
+- Package: approximately **9 × 6 × 2.5 in**, listed weight **0.40 lb**.
+- Recent sealed-market evidence is roughly around **$30** median, with individual sales varying.
+- Amazon launch/reference pricing has also been around the high-$20s / $29.99 range.
+
+Decision: **NOT ADVANCED.** Supplier availability is good, but the market premium is too small for FBA economics.
+
+### NOT ACTIONABLE NOW — Marvel Legends Grizzly
+
+- EE item: `HSG2084`
+- UPC: `5010996352415`
+- Amazon ASIN: `B0FQKZMSDT`
+- Original/public retail: **$39.99**.
+- Recent sold-auction average: about **$46.27**; other market-value tracking showed current values into the $50s.
+- Hasbro Pulse currently sells the figure direct for **$39.99**.
+- Public Entertainment Earth status: **pre-order, estimated March 2027**, not current stock.
+
+Decision: **NOT ACTIONABLE NOW.** The premium exists but is not large or durable enough to justify waiting for a 2027 supplier arrival, especially while manufacturer-direct stock exists at MSRP.
+
+### Batch 10 resolution
+
+No batch-10 item warrants a manual dealer-price lookup.
+
+Reverse sourcing is materially better than broad catalog scanning because it separates two failure classes quickly:
+
+1. **Good market, no EE inventory** — e.g. Trench Viper, Nemesis Immortal, Action Soldier Infantry, Leatherneck.
+2. **EE inventory, insufficient market premium** — e.g. Ultimate Wolverine.
+
+Continue reverse sourcing into other collector lines rather than returning to broad EE page-by-page browsing.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
