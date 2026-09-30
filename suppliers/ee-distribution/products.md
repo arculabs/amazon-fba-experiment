@@ -1381,13 +1381,36 @@ A selling price around **$17.25+** would be needed to approach the current $5/un
 
 Decision: **REJECTED at market/economics screen.** Do not spend additional effort resolving the exact Amazon ASIN or seller eligibility unless pricing or demand materially improves.
 
+
+### Remaining September sale triage — no additional candidate
+
+Because the logged-in sale page already established the common **$3.92/unit** sale price and case pack, the remaining visible sale SKUs could be screened from exact public UPC/product pages plus completed-sale/retail evidence without requiring additional logged-in screenshots.
+
+- **Michelle #1738** — UPC `889698797702`; same standard Funko package class. Current market estimate about **$13.20**, down about **22%**, with roughly **1 sale/month**; current retail has been observed as low as **$6.99**. **REJECTED**.
+- **Keats #1740** — UPC `889698797726`; same standard Funko package class. Current estimate about **$18.00**, but based on only about **1 sale/month** and essentially one recent completed sale; current specialty retail remains around **$14.67–$14.99**. **REJECTED** for thin demand and sub-threshold competing retail.
+- **M3GAN (Pink Suit) #1908** — UPC `889698856416`; package approximately **6.25 × 4.5 × 3.5 in**. PriceCharting new-market value about **$9.98** with roughly **1 sale/month**; another collector tracker reports about **$16.10** but a **-35%** trend and highly volatile recent sold prices. No Amazon ASIN surfaced in PriceCharting. **REJECTED**.
+- **Amon #1161** — UPC `889698867221`; same standard Funko package class. PriceCharting new-market value about **$10.29** with a recent completed sale at **$4.99**; no Amazon ASIN surfaced. **REJECTED**.
+- **Rafa #1163** — UPC `889698867245`; same standard Funko package class. PriceCharting new-market value about **$15.58**, but based on only **one completed sale in the last year**; current retail is available around **$11.99**. No Amazon ASIN surfaced. **REJECTED**.
+- **Ruth Bat-Seraph #1367** — UPC `889698759922`; package approximately **6.5 × 4.5 × 3.5 in**, placing it around the large-standard 8–12 oz dimensional band. Collector estimates are stronger, around **$18.68–$25.40**, with roughly **2 sales/month**, but current retail competition remains around **$15.99–$16.21** and PriceCharting surfaces no Amazon ASIN. At those live competing retail levels the expected FBA economics do not clear the current ~$5/unit target after inbound. **REJECTED for the current first-order experiment; WATCH only if retail availability tightens and an exact Amazon ASIN appears at a durable higher price.**
+- **Mysaria #25** had already failed the initial sale screen on recent completed sales around **$1.99–$4.00**. **REJECTED**.
+
+### September sale batch resolution
+
+All **12 in-stock SKUs** visible in the captured September EED sale carousel have now been screened. None qualifies as a current first-order FBA candidate.
+
+The sale proved that EE can create enough supplier-side discount to make FBA economics plausible, but this particular Funko pool is largely slow-moving/overstock inventory whose live retail and completed-sale prices remain too low or too thin. The sourcing problem is therefore no longer simply "find a deeper EE discount"; it is **find a deep EE discount on a product that still has a durable Amazon market and exact ASIN**.
+
+For the next sourcing pass, do not continue asking the owner for one product-page screenshot at a time when the sale price/SKU pool has already been captured and public exact-product pages expose UPC, dimensions, and weight. Perform public market/ASIN screening first, and request logged-in evidence only for information that is actually account-gated or for a surviving candidate.
+
+Next preferred move: ask Uriel Gonzalez for **current in-stock sales-rep specials / wholesale sales beyond the public Deals & Sales carousel**, specifically single-SKU normal-condition items permitted on Amazon. Require exact SKU/UPC before deeper research.
+
 ### Sale-screen resolution
 
-This is the first EE source pool where supplier pricing is low enough to justify moving multiple items into the exact Amazon / FBA economics gate.
+The September sale carousel has been fully screened for the visible in-stock SKUs. **No current candidate survived.**
 
-Do **not** buy from the sale carousel alone. Next step is to resolve, for the strongest in-stock items, the exact UPC → ASIN match, Amazon selling eligibility/restrictions, live Buy Box / seller count / Amazon presence, demand signal, FBA fees, and inbound cost.
+The important positive result is methodological: sale pricing around $3.92 proved EE can create enough wholesale spread to make FBA plausible. The missing ingredient was durable marketplace demand at a sufficiently high Amazon price.
 
-Prioritize exact screening of **Elio #1532, Elizabeth #2163, Harlowe #1164, Rafa #1163, Lu Shaotang #2061, and Ian Rush #76**, while keeping Ruth #1367 as a cautionary check because of Amazon's prior deep discounting.
+Next action is **sales-rep-assisted sourcing**: obtain current in-stock EE specials or wholesale-sale inventory from Uriel Gonzalez, capture exact SKU/UPC, and run public Amazon/market screening before requesting any additional account-gated detail.
 
 ## Entry standard for future research
 
