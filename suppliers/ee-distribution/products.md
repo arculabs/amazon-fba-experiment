@@ -1048,6 +1048,82 @@ Transformers reinforces the same timing pattern found in DC and Star Wars: the i
 
 Continue reverse sourcing, but prioritize products whose **exact live Amazon price and multiple recent sold transactions** both show a premium while EE still has current inventory.
 
+
+## Research checkpoint — 2026-09-29 batch 14
+
+Batch 14 applied reverse sourcing to current 2026 Marvel Legends products.
+
+### NOT ADVANCED — X-Men '97 Archangel
+
+- EE item: `HSG2087`
+- UPC: `5010996352439`
+- Amazon ASIN: `B0FQKWGK6Q`
+- Original retail: approximately **$41.99**.
+- Exact recent market evidence showed:
+  - Amazon approximately **$59.70**
+  - recent sold-auction average approximately **$53.19**
+  - active Buy It Now average approximately **$57.43**
+- Public Entertainment Earth listing is **pre-order / estimated November 2026**, not current in-stock inventory.
+- Package is approximately **10.25 × 8 × 2.5 in**, listed weight **0.75 lb**.
+
+Decision: **NOT ADVANCED.** This has a real premium, but there is no current EE inventory to source for the first experiment.
+
+### NOT ADVANCED — The Punisher (Disney+ / TV Series)
+
+- EE item: `HSG3488`
+- UPC: `5010996404916`
+- Amazon ASIN: `B0G1TW1W2T`
+- Original retail: approximately **$27.99**.
+- Exact recent market evidence showed:
+  - recent sold-auction average approximately **$40.46**
+  - active Buy It Now average approximately **$45.92**
+- Public Entertainment Earth status: **Pre-Sold Out / estimated October 2026**.
+- Package is approximately **8.75 × 5 × 2 in**, listed weight **0.40 lb**.
+
+Decision: **NOT ADVANCED.** The market premium is promising, but EE does not have currently orderable inventory.
+
+### NOT ADVANCED — The Cavillrine (Deadpool & Wolverine)
+
+- EE item: `HSG2381`
+- UPC: `5010996407450`
+- Public Entertainment Earth price: **$27.99**, **pre-order / estimated October 2026**.
+- Hasbro Pulse is also taking pre-orders at **$27.99**, with expected October 2026 shipment.
+- GameStop confirms the exact UPC/model identity.
+- Package is approximately **9.75 × 5 × 2 in**, listed weight about **0.29–0.45 lb** depending retailer metadata.
+- The product has collector interest, but the retail market is still in preorder/launch phase rather than established scarcity.
+
+Decision: **NOT ADVANCED.** Do not model a first FBA order around an immature preorder market while manufacturer/direct inventory is still offered at MSRP.
+
+### IDENTITY MISMATCH / NOT ACTIONABLE — X-Men '97 Professor Charles Xavier & Hoverchair SDCC 2026
+
+- SDCC/X-Men '97 product UPC: `5010996444042`.
+- Original retail: **$49.99**.
+- Recent sold-auction average: approximately **$99.26** from 13 qualifying sales.
+- Hasbro Pulse identifies it as an **exclusive** and is sold out.
+- Entertainment Earth carries a similarly named older **Ultimate Professor X with Hover Chair** under item `HSE4703`, but that product uses UPC `630509775101` and is **not** the SDCC X-Men '97 release.
+
+Decision: **NOT ACTIONABLE.** The high-value SDCC item is not the same product as the EE Professor X listing. Same character/accessory concept does not satisfy the exact UPC identity gate.
+
+### REJECTED / NOT ADVANCED — other 2026 Marvel Legends exact screens
+
+The following exact-product screens did not justify EE dealer work:
+
+- Mister Fantastic & Spider-Man 2-Pack — retail about $59.99; only one recent sale around $69.95 and Amazon around retail.
+- Black Widow & Quicksilver 2-Pack — recent sold average below its approximately $59.99 retail.
+- Nimrod — recent sold average below its approximately $46.99 retail.
+- Kitty Pryde & Colossus — only a modest premium over approximately $55.99 retail, insufficient for the experiment after FBA costs.
+- U.S. Agent BAF wave figure — recent sold evidence far below original retail.
+- Spider-Man Noir — Amazon exclusive, structurally outside normal EE wholesale sourcing.
+- Bullseye & Muse — Hasbro Pulse exclusive, structurally outside normal EE wholesale sourcing.
+
+### Batch 14 resolution
+
+No batch-14 item warrants a manual EE dealer-price lookup.
+
+Marvel reinforces the reverse-sourcing timing pattern: products with real current collector premiums can be identified efficiently, but the strongest examples are already sold out, exclusive, or future/preorder inventory at EE.
+
+The exact-identity rule again prevented a false match: the valuable 2026 X-Men '97 Professor Xavier & Hoverchair is not the older Professor X-with-chair product currently listed by EE.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
