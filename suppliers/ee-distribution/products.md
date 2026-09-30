@@ -512,6 +512,61 @@ For the next batch, prioritize EE sale/closeout inventory that is:
 4. exact UPC → Amazon ASIN matchable; and
 5. selling materially above the EE sale/public price in current US retail evidence.
 
+
+## Research checkpoint — 2026-09-29 batch 8
+
+Batch 8 stayed inside sale/clearance inventory but excluded mixed bundles, not-mint inventory, and multi-SKU cases. Only individually packaged products were screened.
+
+### NOT ADVANCED — Universal Monsters Wolfman Head Knocker Bobblehead
+
+- EE/public item code: `NC04698`
+- UPC: `634482046982`
+- Current EE Halloween-sale reference: approximately **$28.79** versus regular **$35.99**.
+- Package dimensions: **10.5 × 7.25 × 6.25 in**; listed weight **1.25 lb**.
+- Current exact-product specialty retail is still available around **$35.95**, while some retailers ask about **$49.99**.
+- Target also carries the exact UPC, confirming broad retail distribution.
+- A trustworthy exact Amazon ASIN and current Amazon premium were not established.
+
+Decision: **NOT ADVANCED.** The spread between EE sale price and readily available exact-product retail is not large enough by itself, the package is relatively bulky, and the exact Amazon identity gate remains unresolved.
+
+### NOT ADVANCED — Snow Village Halloween Tubing S.O.S. Statue
+
+- EE/public item code: `DFS6007650`
+- Current EE Halloween-sale reference: approximately **$30.39** versus regular **$37.99**.
+- Department 56 product number: `6007650`.
+- Department 56 identifies the item as retired in November 2022 with original SRP around **$35**.
+- Package dimensions: **6 × 4.5 × 4.25 in**; listed weight **0.40 lb**.
+- No trustworthy exact Amazon listing with a durable premium was established.
+
+Decision: **NOT ADVANCED.** Retirement alone is not treated as proof of demand or Amazon scarcity; current price evidence does not show a compelling premium.
+
+### REJECTED at market screen — Chainsaw Man & Pochita Water Bottle
+
+- EE/public item code: `ABYTAB148`
+- EAN: `3665361164555`
+- EE Halloween-sale reference: approximately **$20.79** versus regular **$25.99**.
+- Manufacturer / ABYstyle currently lists the exact product at **€14.99**, with a **€7.50** sale price on its direct site.
+- Other international retail is around the mid-$20s USD.
+- Exact Amazon economics were not needed because manufacturer-direct clearance already undercuts the EE sale price materially.
+
+Decision: **REJECTED at market screen.** Competing manufacturer-direct clearance destroys the price floor.
+
+### NOT ADVANCED — The Nightmare Before Christmas Village Witch Tower Statue
+
+- EE/public item code: `DFS6012291`
+- EE Halloween-sale reference: approximately **$127.99** versus regular **$159.99**.
+- Package dimensions: **12.5 × 8 × 7.5 in**; listed weight **1.90 lb**.
+- No trustworthy exact Amazon listing with a sufficiently higher current price was established.
+- The product is also materially larger/heavier than the preferred first-experiment profile.
+
+Decision: **NOT ADVANCED.** Exact Amazon premium is unresolved and dimensional FBA burden is comparatively high.
+
+### Batch 8 resolution
+
+No batch-8 item warrants a manual EE dealer-price lookup.
+
+The sale/clearance strategy remains the right discovery direction, but the viable target needs a much stronger combination than a 20% public promotion. A first-SKU candidate should ideally show **both** a deep EE-side discount and an independently verified exact Amazon selling price that remains well above current competing retail.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
