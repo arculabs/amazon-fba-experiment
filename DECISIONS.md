@@ -34,3 +34,10 @@ Research should be performed in small batches, with outcomes written to the rele
 For the first EE Distribution order, use sales rep Uriel Gonzalez so the confirmed first-order discount is 7% rather than the standard 5%.
 
 See `suppliers/ee-distribution/README.md` for the supplier-specific terms.
+
+
+## First-experiment inventory condition
+
+For the initial one-SKU FBA experiment, source straightforward **new / normal retail-condition inventory**.
+
+EE listings explicitly marked **Not Mint** are outside the current experiment because packaging condition is not guaranteed. They may be researched later as a separate condition-sensitive liquidation strategy, but they should not be mixed into the first distributor-to-FBA validation loop.
