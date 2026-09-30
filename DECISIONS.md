@@ -54,3 +54,20 @@ Prioritize sourcing discovery in this order:
 3. Ordinary catalog scanning only when there is a specific reason to expect unusual margin.
 
 Do not treat EE/Entertainment Earth **Drop Zone** as a closeout feed; it is an upcoming-product-launch surface.
+
+
+## Market-first sourcing decision
+
+After fourteen reverse-sourcing batches plus a complete visible September EE sale screen, pause broad supplier-first product hunting.
+
+The next sourcing work is **market first, supplier second**: identify viable Amazon markets/products first, then establish a direct brand relationship or brand-confirmed authorized wholesale source.
+
+Current preference order:
+
+1. brand-direct authorized wholesale;
+2. brand-confirmed specialized distributor;
+3. opportunistic EE/supplier specials only when the ASIN is already market-qualified;
+4. OA/RA only as a tactical learning/discovery path, not the core operating model;
+5. private label only as a separately approved future business case.
+
+The ~$5/unit screen remains a minimum floor for the first experiment. Also record inventory-turn expectation and expected 30-day dollar contribution so low absolute returns are visible.
