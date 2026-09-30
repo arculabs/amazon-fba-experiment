@@ -304,6 +304,61 @@ No batch-4 item warrants a manual EE dealer-price lookup for the current first-S
 
 The strongest closeout opportunities found were mixed bundles/cases, which may become useful after the one-SKU sourcing/FBA loop is proven. Do not expand scope yet merely because a mixed case appears cheaper.
 
+
+## Research checkpoint — 2026-09-29 batch 5
+
+Batch 5 shifted to newly released Marvel Legends items, looking for compact figures with an established exact Amazon identity and enough current Amazon premium to justify dealer-side verification.
+
+### WATCH — Hulk Marvel Legends Series Doc Samson 6-Inch Action Figure
+
+- EE/public item code: `HSG2407`
+- Hasbro model: `G2407`
+- UPC: `5010996411709`
+- Exact Amazon ASIN: `B0FPDVSS8Q`
+- Public Entertainment Earth status on 2026-09-29: **IN STOCK**, $34.99.
+- Entertainment Earth package dimensions: **9 × 7 × 2.5 in**; listed item/package weight **0.60 lb**.
+- Amazon market price observed: approximately **$37.99**.
+- Other current US retail observations were generally around **$33–$39**, so the Amazon premium is modest rather than scarcity-driven.
+- Exact identity evidence:
+  - Entertainment Earth: item `HSG2407`, Hasbro Doc Samson.
+  - Midtown Comics / other specialty retailers: UPC `5010996411709`, manufacturer code `HSG2407/G2407`.
+  - Amazon-linked market records: ASIN `B0FPDVSS8Q` for Marvel Legends Marvel's Doc Samson, model `G2407`.
+- Estimated large-standard dimensional shipping weight: about **1.13 lb**, so use the 1+–1.25 lb band.
+- Amazon Toys & Games referral-fee assumption: **15%**.
+- 2026 holiday-peak FBA base fee for large-standard $10–$50 products at 1+–1.25 lb: **$5.34**, plus Amazon's **3.5% fuel/logistics surcharge**.
+- Conservative 2026 minimal-split inbound-placement allowance for large-standard 12 oz–1.5 lb: **$0.50/unit**.
+- Target profit: **$5/unit**.
+- At a $37.99 selling price, the maximum effective EE cost before EE→FBA transportation is about **$21.26/unit**.
+- Applying the 7% Uriel first-order discount and $0.50 EE labeling/packaging fee, the **maximum viable EE dealer list price is about $22.33/unit before EE→FBA transportation**.
+- Every $1.00/unit of actual EE→FBA transportation lowers that dealer-price ceiling by about **$1.08**.
+- Dealer price, dealer case quantity/MOQ, and any Amazon/third-party marketplace restriction remain unresolved.
+
+Decision: **WATCH — dealer portal check justified.** This is not a strong market premium, so the dealer price needs to be comfortably below the ~$22.33 pre-freight ceiling to become a candidate.
+
+### REJECTED at market screen — Hulk Marvel Legends Series Hulk 2099 6-Inch Action Figure
+
+- EE/public item code: `HSG2406`
+- Hasbro model: `G2406`
+- Amazon ASIN: `B0FHKZBDDT`
+- Public Entertainment Earth status on 2026-09-29: **IN STOCK**, $46.99.
+- Current Amazon price observed: **$46.99**.
+- Recent sold-auction average observed: approximately **$38.66**.
+- Current active secondary-market average observed: approximately **$46.14**.
+- Product is therefore trading around or below its $46.99 retail price rather than at a meaningful scarcity premium.
+
+Decision: **REJECTED at market screen.** The current Amazon price and recent sold evidence do not create enough wholesale-to-FBA spread to justify a dealer-price lookup.
+
+### Batch 5 next action
+
+Check only `HSG2407` / UPC `5010996411709` (Doc Samson) in the EE Distribution dealer portal for:
+
+1. dealer price by quantity tier;
+2. current stock/orderability;
+3. pieces per case / MOQ; and
+4. any Amazon or third-party marketplace restriction.
+
+The small-order dealer price should be comfortably below **$22.33/unit before EE→FBA transportation** to justify advancement.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
