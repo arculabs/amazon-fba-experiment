@@ -429,6 +429,89 @@ Future batches should prioritize:
 - limited items with verifiable Amazon scarcity rather than merely high secondary asking prices;
 - products where current competing retail is already materially above MSRP/public EE retail.
 
+
+## Research checkpoint — 2026-09-29 batch 7
+
+Batch 7 changed the discovery source from ordinary catalog inventory to EE sale / outlet / low-stock inventory, looking specifically for unusually deep supplier-side discounts that might create FBA margin.
+
+### NOT ADVANCED — Ultra Street Fighter II Blanka Glow-in-the-Dark EE Exclusive
+
+- EE/public item code: `JD36976`
+- UPC: `801310369760`
+- Public Entertainment Earth status: **IN STOCK**, **$39.99**.
+- Package dimensions: **10 × 8 × 3.75 in**; listed weight **1.10 lb**.
+- Exact-product current US retail observations:
+  - Forbidden Planet NYC: **$44.99**, in stock.
+  - eBay exact-UPC listings include **$39.99** and roughly **$49.95** asking prices.
+  - Walmart marketplace showed an asking price around **$54.95**.
+- A trustworthy exact Amazon ASIN for UPC `801310369760` was not established.
+- The item was originally marketed as an Entertainment Earth exclusive, but current distribution is no longer limited to EE.
+
+Decision: **NOT ADVANCED.** The exact Amazon identity gate remains unresolved and the exact-product market includes readily available offers near EE's $39.99 public price. The higher Walmart/eBay asks are not strong enough evidence of a durable Amazon premium to justify a dealer-price lookup.
+
+### NOT ADVANCED — Tomica Limited Vintage Neo Lamborghini Countach 25th Anniversary 1:64
+
+- EE/public item code: `TMYT61016`
+- Public Entertainment Earth status: **IN STOCK**, **$54.99**.
+- Current US specialty retail includes the same product around **$54.99**, with some higher import-market asking prices.
+
+Decision: **NOT ADVANCED.** Current domestic retail does not show a meaningful scarcity premium; high import/eBay asks are not treated as reliable selling-price evidence.
+
+### REJECTED at market screen — NFL Series 3 Denver Broncos Russell Wilson Action Figure
+
+- EE/public item code: `RG34974`
+- Public Entertainment Earth status: **IN STOCK / just 1 left**, **$31.99**.
+- Current competing US retail is deeply discounted:
+  - CLARKtoys lists the regular figure around **$5.99**.
+  - Nordstrom marketplace / CLARKtoys listings have shown the regular figure around **$14.99**.
+- The figure depicts Wilson in his former Denver Broncos uniform and is old inventory rather than a scarcity-driven current release.
+
+Decision: **REJECTED at market screen.** Competing clearance inventory destroys any wholesale-to-FBA spread.
+
+### NOT ADVANCED — Call of Duty Melee Macchiato Youtooz Vinyl Figure #5
+
+- EE/public item code: `YT51359`
+- Public Entertainment Earth status: **IN STOCK**, **$31.99**.
+- Youtooz sells the same figure direct for **$33.99**.
+- Each figure includes an in-game Call of Duty: Black Ops 6 redemption code.
+- No trustworthy current exact Amazon listing with a material premium was established.
+
+Decision: **NOT ADVANCED.** Direct manufacturer availability only ~$2 above EE public retail leaves no evidence of a meaningful FBA spread.
+
+### NOT ADVANCED — Slime Rancher Beatrix LeBeau Youtooz Vinyl Figure #0
+
+- EE/public item code: `YT54350`
+- Public Entertainment Earth status: **IN STOCK / just 1 left**, **$31.99**.
+- Package dimensions: **6.5 × 4.75 × 3.75 in**; listed weight **0.70 lb**.
+- Youtooz direct price is **$29.99**.
+
+Decision: **NOT ADVANCED.** Manufacturer-direct pricing is already below EE public retail, so no dealer-price lookup is justified.
+
+### FUTURE MULTI-SKU / LIQUIDATION PATTERN — Alien Candy and Clean Bundle of 2
+
+- EE/public item code: `SUP26ALBUN`
+- Public outlet price: **$16.00**, reduced from a stated **$76.94**.
+- Bundle contains two individually packaged products:
+  - Alien Super Bucket for Halloween Candy (`SUPSBALN01`, UPC `811169032777`)
+  - Aliens Kane with Facehugger Super Soapies (`SUPSOALIKWF`)
+- The discount is unusually deep, but the bundle itself does not have a verified exact Amazon listing.
+- Splitting the two individually packaged products would create a multi-SKU inventory strategy, outside the current one-SKU milestone.
+
+Decision: **WATCH for a future multi-SKU / liquidation experiment, not the current first-SKU milestone.** This is the strongest evidence so far that EE closeouts may create real sourcing value, but the current bundle structure is wrong for the deliberately simple first experiment.
+
+### Batch 7 resolution
+
+No batch-7 item warrants a manual EE dealer-price lookup for the current one-SKU experiment.
+
+The sale/outlet screen produced a useful refinement: **deep discounts are more promising than normal catalog wholesale pricing, but they must still resolve to one exact retail SKU / ASIN.** Mixed liquidation bundles can be economically interesting while still being operationally wrong for the first FBA test.
+
+For the next batch, prioritize EE sale/closeout inventory that is:
+1. one individually packaged SKU per case;
+2. mint/new condition;
+3. currently orderable;
+4. exact UPC → Amazon ASIN matchable; and
+5. selling materially above the EE sale/public price in current US retail evidence.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
