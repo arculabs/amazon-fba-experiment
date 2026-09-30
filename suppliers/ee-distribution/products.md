@@ -939,6 +939,115 @@ Two important research controls were validated:
 
 Continue reverse sourcing in a different collector line, preserving the same exact-item validation standard.
 
+
+## Research checkpoint — 2026-09-29 batch 13
+
+Batch 13 applied reverse sourcing to current Transformers Age of the Primes and Studio Series products.
+
+### NOT ACTIONABLE — Age of the Primes Combaticon Brawl
+
+- EE item: `HSG1997`
+- UPC: `5010996356116`
+- Broad recent market value was about **$96.24** versus original retail around $42.99.
+- Public EE status: **Sold Out / no further shipments expected**.
+- Package: approximately **9 × 6.25 × 3.5 in**, listed weight **0.60 lb**.
+
+Decision: **NOT ACTIONABLE.** Strong market premium, failed supplier-availability gate.
+
+### NOT ACTIONABLE — Age of the Primes Fireflight
+
+- EE item: `HSG1024`
+- UPC: `5010996334152`
+- Broad recent market value was about **$70.18** versus original retail around $24.99.
+- Public EE status: **Sold Out / no further shipments expected**.
+- Package: approximately **8 × 5 × 2.5 in**, listed weight **0.40 lb**.
+
+Decision: **NOT ACTIONABLE.** Strong premium but no mint/orderable EE inventory.
+
+### NOT ACTIONABLE — Age of the Primes Megatronus the Fallen
+
+- EE item: `HSG0486`
+- Broad recent market value was about **$96.06** versus original retail around $54.99.
+- Public EE status: **Sold Out / no further shipments expected**.
+- Package: approximately **10 × 9 × 4 in**, listed weight **1.10 lb**.
+
+Decision: **NOT ACTIONABLE.** Supplier availability fails.
+
+### NOT ACTIONABLE NOW — Age of the Primes Commander Onslaught
+
+- EE item: `HSG1966`
+- UPC: `5010996367983`
+- Broad recent market value was about **$139.31** versus original retail around $99.99.
+- Public EE listing showed **$99.99** with an estimated September 2026 arrival rather than confirmed normal in-stock fulfillment.
+- Package is comparatively large: approximately **12 × 11.5 × 4 in**, listed weight **2.25 lb**.
+
+Decision: **NOT ACTIONABLE NOW.** Current orderability is not established and dimensional FBA burden is high; no dealer lookup until supplier stock is clearly live.
+
+### NOT ADVANCED — Age of the Primes Combaticon Swindle
+
+- EE item: `HSG2002`
+- UPC: `5010996356154`
+- Broad recent market value was about **$72.72** versus original retail around $42.99.
+- Public EE status: **Pre-Sold Out / estimated November 2026**.
+- Not Mint inventory is also outside the first-experiment condition gate.
+
+Decision: **NOT ADVANCED.** Not currently orderable.
+
+### NOT ACTIONABLE — Studio Series Constructicon Scrapper
+
+- EE item: `HSG0562`
+- Broad current price guide: approximately **$77.42** versus $34.99 retail.
+- Public EE status: **Sold Out / no further shipments expected**.
+- Package: approximately **8.75 × 6 × 3.25 in**, listed weight **0.55 lb**.
+
+Decision: **NOT ACTIONABLE.** This is the right market shape but supplier inventory is already gone.
+
+### NOT ACTIONABLE — Studio Series Long Haul & Hook 2-Pack
+
+- EE item: `HSG0472`
+- Broad current price guide: approximately **$131.06** versus $89.99 retail.
+- Public EE status: **Sold Out**.
+- Package: approximately **12.5 × 11.5 × 4.25 in**, listed weight **2.15 lb**.
+
+Decision: **NOT ACTIONABLE.** Genuine premium, failed supplier-availability gate.
+
+### REJECTED at exact-market screen — Studio Series Constructicon Mixmaster
+
+- EE item: `HSG0563`
+- UPC: `5010996323521`
+- Amazon ASIN: `B0DK7YBH7T`
+- Public EE status: **IN STOCK**, $42.99.
+- Exact current market page showed:
+  - Amazon about **$79.95**
+  - recent sold-auction average only **$32.19** from 5 qualifying sales
+  - active Buy It Now average about **$37.62**
+- The live Amazon offer is therefore a high outlier relative to actual sold and active-market evidence.
+
+Decision: **REJECTED at exact-market screen.** Do not model FBA economics from the isolated Amazon ask when recent transacted market evidence is below retail.
+
+### REJECTED at exact-market screen — Studio Series Cyclonus (The Transformers: The Movie, 2026)
+
+- EE item: `HSG2193`
+- UPC: `5010996403490`
+- Amazon ASIN: `B0G2N9Q1KX`
+- Public EE status: recent crawl shows **IN STOCK**, $42.99.
+- Package: approximately **8.5–8.82 × 6 × 3 in**, listed weight about **0.60–0.71 lb**.
+- Exact market page showed:
+  - Amazon about **$46.99**
+  - sold-auction average **$125**, but based on only **one** qualifying sale
+  - active Buy It Now average about **$80.79**
+- Live Amazon availability is only about $4 above EE public retail.
+
+Decision: **REJECTED at exact-market screen.** A single high sold auction is not enough to justify sourcing while Amazon itself remains near MSRP.
+
+### Batch 13 resolution
+
+No batch-13 item warrants a manual EE dealer-price lookup.
+
+Transformers reinforces the same timing pattern found in DC and Star Wars: the items with robust collector premiums tend to become valuable after normal EE inventory disappears. Current in-stock items with dramatic aggregate-price-guide values often fail when exact live Amazon and sold-auction evidence are opened.
+
+Continue reverse sourcing, but prioritize products whose **exact live Amazon price and multiple recent sold transactions** both show a premium while EE still has current inventory.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
