@@ -31,3 +31,7 @@ See [rqkf/PROJECT.md](./rqkf/PROJECT.md).
 ## Durable decisions
 
 See [DECISIONS.md](./DECISIONS.md).
+
+## Operating-model research
+
+- [How profitable Amazon FBA sellers actually operate](./research/how-profitable-fba-sellers-operate.md)
