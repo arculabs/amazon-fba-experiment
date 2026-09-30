@@ -6,9 +6,9 @@ This repository exists so product research, supplier terms, rejections, candidat
 
 ## Current stage
 
-The experiment is currently sourcing through **EE Distribution**.
+The experiment has completed an initial EE Distribution sourcing study and is now testing a **market-first, brand-authorized wholesale** approach.
 
-Current objective: identify one low-risk first SKU suitable for direct shipment from the distributor to Amazon FBA.
+Current objective: identify one low-risk first SKU with durable Amazon demand, legitimate/documentable supply, and enough absolute contribution to justify the operating effort. EE remains an available supplier rather than the project boundary.
 
 ## Working constraints
 
@@ -35,3 +35,4 @@ See [DECISIONS.md](./DECISIONS.md).
 ## Operating-model research
 
 - [How profitable Amazon FBA sellers actually operate](./research/how-profitable-fba-sellers-operate.md)
+- [Sourcing model comparison and market-first path](./research/sourcing-model-comparison.md)
