@@ -567,6 +567,105 @@ No batch-8 item warrants a manual EE dealer-price lookup.
 
 The sale/clearance strategy remains the right discovery direction, but the viable target needs a much stronger combination than a 20% public promotion. A first-SKU candidate should ideally show **both** a deep EE-side discount and an independently verified exact Amazon selling price that remains well above current competing retail.
 
+
+## Research checkpoint — 2026-09-29 batch 9
+
+Batch 9 went deeper into EE clearance inventory and applied a stricter first-experiment condition filter.
+
+### First-experiment condition gate — exclude "Not Mint"
+
+EE's clearance inventory contains many listings explicitly marked **Not Mint**, with packaging not guaranteed to be in mint condition.
+
+For the current first-FBA experiment, these items are excluded from sourcing consideration. The experiment is intended to validate a simple distributor → FBA → customer loop using straightforward new-condition inventory, not to introduce collectible-condition grading, damaged-packaging expectations, or condition-specific listing risk.
+
+This does not mean Not Mint inventory can never be profitable; it is simply outside the current milestone.
+
+### NOT ADVANCED — Alien Super Bucket for Halloween Candy
+
+- EE item code: `SUPSBALN01`
+- UPC: `811169032777`
+- Public EE price during this screen: **$20.99**, with a temporary sale reference around **$16.79**.
+- Public EE package dimensions: approximately **13 × 6 × 7 in**; listed weight **0.45 lb**.
+- Estimated dimensional shipping weight is about **3.9 lb**, making FBA fulfillment materially less attractive than the physical weight suggests.
+- Walmart carried the exact UPC around **$36.90** during the screen.
+- A trustworthy exact Amazon ASIN was not established.
+
+Decision: **NOT ADVANCED.** The retail spread is interesting, but exact Amazon identity remains unresolved and the package is dimensionally expensive. Do not request dealer pricing until an exact Amazon listing is verified.
+
+### NOT ADVANCED — Aliens Kane with Facehugger Super Soapies
+
+- EE item code: `SUPSOALIKWF`
+- Public EE price during this screen: **$20.99**, with a temporary sale reference around **$16.79**.
+- Package dimensions: approximately **10 × 4 × 4 in**; listed weight **1.05 lb**.
+- A trustworthy exact Amazon ASIN and current Amazon premium were not established.
+
+Decision: **NOT ADVANCED.** Exact Amazon identity and economics remain unresolved.
+
+### NOT ADVANCED — The Nightmare Before Christmas Jack Skellington & Oogie Boogie Pocket Pop! Keychain 2-Pack
+
+- EE item code: `FU82402`
+- UPC: `889698824026`
+- Public EE sale price during this screen: **$7.99** versus $9.99 regular.
+- Package dimensions: approximately **4 × 3 × 1.75 in**; listed weight **0.25 lb**.
+- AAA Anime lists the same UPC/SKU with SRP **$16.99**.
+- Exact-product market offers were roughly in the low-to-mid teens; Best Buy marketplace had shown the exact UPC around **$14.44** but sold out.
+- A trustworthy exact Amazon ASIN was not established.
+
+Decision: **NOT ADVANCED.** This has a much better package/economic shape than most prior items, but the exact Amazon identity hard gate is unresolved. Preserve for possible re-check if an exact Amazon listing appears.
+
+### REJECTED at market screen — The Texas Chain Saw Massacre Leatherface #394 Metallic Handmade by Robots
+
+- EE item code: `HM27392`
+- UPC: `818730027392`
+- Public EE sale price: approximately **$19.99** versus $24.99 regular.
+- Current exact-product competition included manufacturer/direct and specialty offers around **$19.99**, with at least one deep-discount offer around **$13.62**.
+
+Decision: **REJECTED at market screen.** Retail saturation at or below EE's sale price removes the FBA spread.
+
+### NOT ADVANCED — Penny Dreadful Vanessa Ives 8-Inch Figure
+
+- EE item code: `BBP25050`
+- Public EE price around **$26.99**, with a temporary sale reference around **$21.59**.
+- Current specialty retail included offers around **$27.99–$35.99**.
+- A trustworthy exact Amazon ASIN and durable Amazon premium were not established.
+
+Decision: **NOT ADVANCED.** Public-market spread is not strong enough without verified Amazon identity.
+
+### NOT ADVANCED — small clearance ornaments / mini collectibles
+
+The following mint clearance items were screened but did not show enough verified marketplace premium or exact Amazon evidence to justify dealer-side work:
+
+- Paw Patrol Marshall Blow Mold Ornament `KSPP1152` — public EE **$6.99**.
+- Cocomelon Watermelon 3-Inch Blow Mold Ornament `KSC1214` — public EE **$7.99**.
+- Baby Shark Ollie 3.5-Inch Decoupage Ornament `KSBK1222` — public EE **$9.99**.
+- Molang Avocado ACRYL Figure `ABYACF088` — public EE **$10.99**, exact-product specialty retail around **$12.99**.
+- Night Riders Nathan Jurevicius Mini-Figure Random 4-Pack `KRTRKRL02AAA` — public EE **$42.99**; individual blind boxes elsewhere around $11.99–$12.50 each, leaving no meaningful bundle spread.
+
+### Batch 9 resolution
+
+No batch-9 item warrants a manual EE dealer-price lookup.
+
+A stronger structural pattern is now established:
+
+1. Much of EE's deepest clearance inventory is Not Mint and is deliberately excluded from the simple first-FBA experiment.
+2. The remaining mint clearance inventory is sparse.
+3. Small seasonal items often lack a trustworthy exact Amazon listing.
+4. Mixed bundles can have deep discounts but conflict with the current one-SKU milestone.
+5. A public EE discount is not enough; the candidate still needs a verified exact Amazon ASIN and a durable selling-price premium.
+
+### Search-strategy change after batch 9
+
+Do not continue broad forward scanning of EE's catalog page-by-page.
+
+The next research batches should use **reverse sourcing**:
+
+1. identify exact Amazon collector products with a meaningful current price premium and usable demand evidence;
+2. capture exact ASIN + UPC/model;
+3. search EE for that exact product identity;
+4. only then inspect dealer price if EE carries it and marketplace resale is allowed.
+
+This should reduce time spent screening products that never had enough Amazon-side margin to begin with.
+
 ## Entry standard for future research
 
 For each researched product, preserve as much of the following as is available:
