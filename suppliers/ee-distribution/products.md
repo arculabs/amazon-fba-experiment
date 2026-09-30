@@ -1334,6 +1334,53 @@ At **$18.90**, the residual before inbound/storage would rise to about **$6.89/u
 
 Decision: **REJECTED at market/economics screen.** The sale cost is attractive, but current completed-sale evidence and manufacturer competition do not support a stable enough selling price or demand level. Do not spend additional effort resolving the exact Amazon ASIN or seller eligibility unless the market materially changes.
 
+
+### Exact screen — REJECTED — Football Liverpool Ian Rush #76
+
+Logged-in EE product-page evidence captured 2026-09-29:
+
+- EE item: `FU89367`
+- UPC: `889698893671`
+- Status: **IN STOCK**
+- Sale price: **$3.92 each**
+- Case pack: **6**
+- Case price: **$23.52**
+- EE prep/label charge: **$0.50/unit**
+- Effective supplier-side cost before inbound: **$4.42/unit**
+- Package: approximately **6.50 × 4.75 × 3.75 in**
+- Listed weight: **0.30 lb**
+- No marketplace/Amazon restriction was shown on the captured EE page; Amazon seller eligibility remains unresolved.
+
+Using Amazon's large-standard dimensional-weight rule, `6.50 × 4.75 × 3.75 / 139 ≈ 0.83 lb`, or about **13.3 oz billable weight**, placing this SKU in the large-standard 12–16 oz band.
+
+Current public market evidence is not strong enough:
+
+- POPs.Today estimates current value around **$14.30**, with a **-26.4% six-month trend** and only about **1 sale/month**.
+- Recent completed-sale observations shown there include roughly **$14.27, $16.75, $23.16, $10.85, and $10.88**, demonstrating wide variance and low volume.
+- PopMarket currently lists the exact product around **$12.79**.
+- DeepDiscount lists the exact UPC around **$12.85**.
+- Walmart marketplace lists it around **$15.59**.
+- Best Buy marketplace shows current offers starting around **$14.99**.
+- Palletfly identifies the exact UPC but currently surfaces **no Amazon Buy Box price**, so a reliable live Amazon selling price is unresolved.
+
+Using the 2026 non-peak non-apparel large-standard 12–16 oz FBA fee of about **$4.76 after the current 3.5% fuel/logistics surcharge**:
+
+At **$12.79**:
+- referral fee (15%): about $1.92
+- FBA fulfillment + surcharge: about $4.76
+- EE sale + prep/label: $4.42
+- residual before inbound/storage: about **$1.69/unit**
+
+At the **$14.30** current collector estimate:
+- referral fee (15%): about $2.15
+- FBA fulfillment + surcharge: about $4.76
+- EE sale + prep/label: $4.42
+- residual before inbound/storage: about **$2.98/unit**
+
+A selling price around **$17.25+** would be needed to approach the current $5/unit experiment target after a modest inbound allowance. Current competing retail prices are materially below that level, the observed price trend is down, and sales volume is thin.
+
+Decision: **REJECTED at market/economics screen.** Do not spend additional effort resolving the exact Amazon ASIN or seller eligibility unless pricing or demand materially improves.
+
 ### Sale-screen resolution
 
 This is the first EE source pool where supplier pricing is low enough to justify moving multiple items into the exact Amazon / FBA economics gate.
