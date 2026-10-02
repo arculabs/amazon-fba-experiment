@@ -8,7 +8,9 @@ This repository exists so product research, supplier terms, rejections, candidat
 
 The experiment has completed an initial EE Distribution sourcing study and is now testing a **market-first, brand-authorized wholesale** approach.
 
-Current objective: identify one low-risk first SKU with durable Amazon demand, legitimate/documentable supply, and enough absolute contribution to justify the operating effort. EE remains an available supplier rather than the project boundary.
+The Amazon Seller account is now active. Remaining Seller Central onboarding items shown as critical are deposit-method readiness, tax information, and return-address review.
+
+Current objective: complete those account prerequisites, then use Amazon-native market data (starting with Product Opportunity Explorer) to identify one low-risk first SKU with durable demand, legitimate/documentable supply, and enough absolute contribution to justify the operating effort. EE remains an available supplier rather than the project boundary.
 
 ## Working constraints
 
