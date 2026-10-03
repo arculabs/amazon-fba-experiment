@@ -67,3 +67,104 @@ Primary gates:
 5. whether private-label concentration makes authorized wholesale access impractical.
 
 If the dominant branded/open listings are physically heavy or insufficiently priced, reject the niche and move to `moka pot`.
+
+## Detailed niche inspection — Products + Search Terms
+
+Seller Central detail exports:
+
+- `NicheDetailsSearchTermsTab_10_2_2026(7).csv`
+- `NicheDetailsProductsTab_10_2_2026(7).csv`
+
+### Search behavior
+
+The 20 supplied search terms total **3,804,223 searches/year**.
+
+Weighted across those terms:
+
+- search conversion: approximately **0.67%**
+- 90-day search-volume growth: approximately **+0.49%**
+- 180-day search-volume growth: approximately **-21.26%**
+
+The primary query `tortilla press` accounts for **2,699,006 searches** and **68.37%** of niche click share. Its own trend is still weak:
+
+- 90-day growth: **-2.25%**
+- 180-day growth: **-23.05%**
+- search conversion: **0.73%**
+
+So the broad-screen interpretation was correct: demand is large and recently stable, but materially below six months ago.
+
+### Product concentration
+
+The 12 exported products account for essentially all niche click share.
+
+Concentration is extreme:
+
+- top 5 ASINs: **83.91%**
+- top 10 ASINs: **98.19%**
+
+Brand click share:
+
+- IMUSA — **51.35%**
+- Victoria — **13.47%**
+- VEVOR — **13.22%**
+- Uno Casa — **10.23%**
+- StarBlue — **4.29%**
+
+### ASP reality check
+
+Across the 12 exported ASINs:
+
+- click-share-weighted ASP: approximately **$31.31**
+- median ASIN ASP: **$35.31**
+
+The broad $36.11 niche ASP therefore overstates the economics of the products that actually receive most clicks.
+
+The largest listing is IMUSA B006N453NQ:
+
+- **45.88%** niche click share
+- **$17.29 ASP**
+- 4 sellers/vendors
+
+That alone makes almost half the niche economically unattractive for ARCU's current contribution target.
+
+### Higher-ASP exceptions
+
+#### Victoria B089X51CJD
+
+- **13.47%** niche click share
+- **$50.93 ASP**
+- 3 sellers/vendors
+
+Victoria's own U.S. contact page states that the only authorized sellers on Amazon U.S. and other U.S. marketplaces are **Amazon, Kitchenest, and IronIsTheWay**. That exactly matches the 3-seller structure in the Amazon export and means this is **not an open authorized-reseller opportunity** for ARCU.
+
+Victoria's current 8-inch press is also physically heavy; its official product page lists **5.9 lb** for the current spheroidal-iron model, while another 8-inch cast-iron version is listed at **8.9 lb**.
+
+#### VEVOR B0CX94PDV4
+
+- **13.22%** niche click share
+- **$28.24 ASP**
+- 8 sellers/vendors
+
+VEVOR's official page lists the 10-inch press at approximately **10.8 lb**. That is far too heavy relative to its sub-$30 Amazon ASP for the first experiment.
+
+#### Uno Casa / other premium presses
+
+The remaining higher-priced products have only one or two sellers/vendors and are cast-iron / bundle products likely to be heavy. Their limited click share does not justify separate channel-access work after the Victoria and VEVOR findings.
+
+## Updated decision
+
+**REJECT the tortilla-press niche for the first ARCU wholesale/FBA experiment.**
+
+Reasons:
+
+1. weighted 180-day demand is down approximately **21.3%**;
+2. the click-share-weighted ASP is only about **$31.31**;
+3. nearly half of niche clicks go to a **$17.29** IMUSA listing;
+4. the most attractive established-brand listing, Victoria, explicitly restricts U.S. marketplace authorization to three named sellers;
+5. the remaining higher-priced cast-iron products are physically heavy, with VEVOR's 10-inch model around **10.8 lb**;
+6. the niche therefore cannot match the compact/light economics already seen in KNIPEX/Klein wire-stripper candidates.
+
+Do not perform supplier outreach here.
+
+Next move: continue the prescreen queue with `moka pot`.
+
