@@ -55,3 +55,33 @@ Primary gates:
 6. whether there is an authorized wholesale path with Amazon Marketplace permission.
 
 If the leading ASINs are mostly one- or two-seller private-label listings, reject the niche quickly despite the strong headline economics.
+
+## Detailed inspection
+
+Seller Central detail exports:
+
+- `NicheDetailsProductsTab_10_2_2026(12).csv`
+- `NicheDetailsSearchTermsTab_10_2_2026(12).csv`
+
+Key findings:
+
+- 2,748,264 searches/year across the supplied terms
+- weighted search conversion: ~1.13%
+- weighted 90-day growth: ~+16.17%
+- weighted 180-day growth: ~-12.05%
+- top 5 ASINs: 49.50% of clicks
+- top 10 ASINs: 72.64%
+- click-share-weighted ASP: ~$59.90
+- median ASIN ASP: ~$60.55
+- 11 of 30 ASINs average more than 3 sellers/vendors, representing ~59.0% of niche click share
+- products launched in 2026 represent ~43.65% of click share
+- products launched in 2025 or later represent ~60.0% of click share
+
+Largest brands by click share are ANJCTDD, Futureagle, FWTAOU, EVATEK, and Taiquinix. No established national electronics brand dominates the niche. UGREEN and Acer appear, but each represents less than 0.5% of niche click share.
+
+Decision: **REJECT wireless HDMI for the first ARCU wholesale/FBA experiment.**
+
+The ASP and recent demand rebound are attractive, but the category shows rapid product turnover and is led mainly by marketplace electronics brands rather than durable, clearly authorized wholesale relationships. For the first experiment, prioritize stable, replenishable products with longer-lived model identity and clearer brand-direct distribution paths.
+
+Do not perform supplier outreach here.
+
