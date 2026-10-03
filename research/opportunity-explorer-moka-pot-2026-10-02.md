@@ -199,3 +199,18 @@ Next bounded action: contact **Bialetti USA** to confirm whether authorized whol
 
 Do not model exact wholesale economics until channel permission is confirmed.
 
+## Outreach status
+
+Authorization inquiry sent 2026-10-02 to Bialetti's U.S. customer-service channel, with corporate information address copied.
+
+Questions sent:
+
+- whether authorized U.S. resellers/distributors may sell on Amazon Marketplace;
+- the correct U.S. wholesale/distributor path;
+- whether invoices and/or reseller authorization documentation are available for Amazon supply-chain verification;
+- any marketplace-specific restrictions, MAP requirements, or channel limitations.
+
+Referenced product families: Moka Express and Venus.
+
+Status: **awaiting reply**. Do not perform wholesale-price modeling until marketplace permission is confirmed.
+
