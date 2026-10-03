@@ -201,7 +201,7 @@ Do not model exact wholesale economics until channel permission is confirmed.
 
 ## Outreach status
 
-Authorization inquiry sent 2026-10-02 to Bialetti's U.S. customer-service channel, with corporate information address copied.
+Authorization inquiry sent 2026-10-02 to Bialetti's U.S. customer-service channel. An initial CC to `info@bialettiindustrie.it` bounced as invalid; the inquiry was then resent to Bialetti's current official corporate contact `info@bialettigroup.com`.
 
 Questions sent:
 
