@@ -61,3 +61,141 @@ Primary gates:
 6. whether the niche's 5% return rate is concentrated in certain sizes/materials.
 
 If the detailed market is mostly tightly controlled/private-label or the dominant branded ASINs are low-priced, reject the niche and move to `vinyl record storage`.
+
+## Detailed niche inspection — Products + Search Terms
+
+Seller Central detail exports:
+
+- `NicheDetailsSearchTermsTab_10_2_2026(8).csv`
+- `NicheDetailsProductsTab_10_2_2026(8).csv`
+
+### Search behavior
+
+The 20 supplied search terms total **4,973,662 searches/year**.
+
+Weighted across those terms:
+
+- search conversion: approximately **1.35%**
+- 90-day search-volume growth: approximately **-10.97%**
+- 180-day search-volume growth: approximately **-14.48%**
+
+The primary query `moka pot` remains dominant:
+
+- **1,880,419 searches/year**
+- **44.29%** niche click share
+- **1.56%** search conversion
+- **-10.56%** 90-day growth
+- **-19.35%** 180-day growth
+
+Demand is therefore clearly mature/declining rather than growing.
+
+### Product and brand concentration
+
+The 27 exported products account for approximately **99.86%** of niche click share.
+
+Product concentration:
+
+- top 5 ASINs: **55.54%**
+- top 10 ASINs: **74.48%**
+
+Brand click share:
+
+- **Bialetti — 45.23%**
+- **Primula — 24.41%**
+- **Mongdio — 11.79%**
+- **IMUSA — 6.10%**
+- **GROSCHE — 3.57%**
+
+This is the first recent non-tool niche where a major established brand both dominates demand and has multiple broad multi-seller Amazon listings.
+
+### ASP reality check
+
+Across the 27 exported ASINs:
+
+- click-share-weighted ASP: approximately **$33.55**
+- median ASIN ASP: **$32.61**
+
+The broad-screen $33.53 ASP was therefore accurate.
+
+### Bialetti exact-ASIN signals
+
+Bialetti is the standout sourcing lead because several high-click listings have broad seller participation and workable ASPs:
+
+#### Moka Express 6 Cup — ASIN B00004RFRU
+
+- **20.16%** niche click share
+- **$51.73 ASP**
+- **36 sellers/vendors**
+- approximately **120k ratings**
+
+This is the single strongest exact-ASIN lead in the niche.
+
+#### Venus 6 Cup — ASIN B07ZKZXM4B
+
+- **2.13%** niche click share
+- **$54.26 ASP**
+- **35 sellers/vendors**
+
+Lower demand than the 6-cup Moka Express, but the seller structure is equally open-looking and the ASP is strong.
+
+#### Moka Express 9 Cup — ASIN B0000CFSS5
+
+- **3.54%** niche click share
+- **$63.91 ASP**
+- **12 sellers/vendors**
+
+Higher ASP, lower share, still broad enough seller participation to justify exact economics if channel authorization is available.
+
+#### Moka Express 3 Cup / related variants
+
+Several additional Bialetti variants sit in the **$37–$56 ASP** range with **14–36 sellers/vendors**, confirming that the open-listing structure is not limited to one anomalous ASIN.
+
+### Brand-access interpretation
+
+Bialetti is structurally much stronger than the private-label-heavy categories previously rejected:
+
+1. **45.23%** of niche clicks belong to Bialetti.
+2. Multiple Bialetti ASINs have **double-digit to 30+ seller counts**.
+3. The strongest ASIN combines **$51.73 ASP**, **20.16% niche click share**, and **36 sellers/vendors**.
+4. Bialetti USA Inc. is a current U.S. subsidiary responsible for commercialization in the American market.
+5. Public wholesale channels for Bialetti products exist, but public evidence does **not** establish that a new reseller may list on Amazon Marketplace.
+
+Therefore the next gate is the same as with TEKTON/KNIPEX/Klein: **explicit Amazon Marketplace authorization and approved supply path**.
+
+### Other brands
+
+#### Primula
+
+Primula captures **24.41%** of niche clicks and has broad seller participation, but its leading ASINs are mostly around **$17–$22 ASP**. Do not prioritize outreach unless a higher-ASP Primula model emerges.
+
+#### GROSCHE
+
+GROSCHE has some $32–$52 ASP listings, but only **3.57%** total niche click share and mostly two-seller listings. Lower priority than Bialetti.
+
+#### Mongdio / IMUSA / private-label-style rows
+
+Either too low-ASP or too tightly controlled to justify outreach before Bialetti.
+
+## Updated decision
+
+**Moka pot = PASS for brand-access testing, specifically Bialetti.**
+
+This is one of the strongest exact brand/ASIN combinations found so far.
+
+Primary candidate:
+
+- **Bialetti Moka Express 6 Cup — B00004RFRU**
+- ~$51.73 ASP
+- 36 sellers/vendors
+- 20.16% niche click share
+
+Secondary candidates if authorization is positive:
+
+- B07ZKZXM4B — Venus 6 Cup
+- B0000CFSS5 — Moka Express 9 Cup
+- other Moka Express size variants with $40+ ASP and broad seller participation
+
+Next bounded action: contact **Bialetti USA** to confirm whether authorized wholesale resellers may sell on Amazon Marketplace, the correct U.S. wholesale/distributor path, and what invoice/authorization documentation is available.
+
+Do not model exact wholesale economics until channel permission is confirmed.
+
