@@ -73,3 +73,152 @@ Advance **two** niches to detailed inspection:
 For each, export the **Products** and **Search Terms** tabs.
 
 If neither produces a viable branded/open-wholesale ASIN, test `insulated pliers` next rather than spending time on wire-stripper machines.
+
+## Detailed niche inspection — automatic + generic wire stripper
+
+Seller Central detail exports:
+
+- `NicheDetailsSearchTermsTab_10_2_2026(4).csv`
+- `NicheDetailsProductsTab_10_2_2026(4).csv`
+- `NicheDetailsSearchTermsTab_10_2_2026(5).csv`
+- `NicheDetailsProductsTab_10_2_2026(5).csv`
+
+### Automatic wire stripper — detailed read
+
+The 11 supplied search terms total **206,997 searches/year**.
+
+Weighted search behavior:
+
+- search conversion: approximately **4.46%**
+- 90-day search-volume growth: approximately **+6.35%**
+- 180-day search-volume growth: approximately **-1.12%**
+
+This is healthier than the broad row implied: recent demand is positive and the 180-day decline is almost flat.
+
+The 26 exported ASINs account for approximately **99.87%** of niche click share.
+
+Concentration:
+
+- top 5 ASINs: **60.10%**
+- top 10 ASINs: **80.88%**
+
+Brand click share:
+
+- Klein Tools — **33.96%**
+- IRWIN — **14.33%**
+- VCELINK — **10.51%**
+- haisstronica — **10.15%**
+- KNIPEX — **7.54%**
+
+Important correction to the broad screen: the detailed product mix is lower-priced than the headline **$39.41** niche ASP suggested.
+
+- click-share-weighted ASP: approximately **$29.37**
+- median ASIN ASP: **$22.56**
+
+However, this niche is materially more wholesale-friendly than most categories screened so far because several major branded ASINs have broad seller participation.
+
+Strong exact branded listings:
+
+- **Klein Tools 11063W / ASIN B00BC39YFQ**
+  - $31.01 ASP
+  - 41 sellers/vendors
+  - 11.60% niche click share
+  - official product weight: **12 oz**
+  - official UPC: **092644420016**
+- **KNIPEX 12 62 180 / ASIN B003B8WB5U**
+  - $53.55 ASP
+  - 49 sellers/vendors
+  - 6.84% niche click share
+  - official weight: **0.35 lb**
+  - official UPC: **843221001537**
+- **KNIPEX 12 62 180 variant / ASIN B000C74WBO**
+  - $55.99 ASP
+  - 17 sellers/vendors
+  - 0.70% niche click share
+- **IRWIN 2078300 / ASIN B000OQ21CA**
+  - $22.04 ASP
+  - 33 sellers/vendors
+  - 11.46% niche click share
+
+Interpretation: unlike bread slicers, cabinet hardware, or the private-label wrench leaders, this niche contains established manufacturers whose listings are already structurally open to many sellers.
+
+### Generic wire stripper — detailed read
+
+The 20 supplied search terms total **3,507,839 searches/year**.
+
+Weighted search behavior:
+
+- search conversion: approximately **5.24%**
+- 90-day search growth: approximately **+5.57%**
+- 180-day growth: approximately **-0.11%**
+
+This is effectively stable long-run demand with positive recent momentum.
+
+The 33 exported products account for approximately **99.83%** of niche click share.
+
+Concentration:
+
+- top 5 ASINs: **46.94%**
+- top 10 ASINs: **64.45%**
+
+Brand click share:
+
+- Klein Tools — **34.46%**
+- WGGE — **16.14%**
+- haisstronica — **15.87%**
+- IRWIN — **4.29%**
+- VCELINK — **4.17%**
+- KNIPEX — **3.13%**
+
+The generic niche is lower-priced overall:
+
+- click-share-weighted ASP: approximately **$21.00**
+- median ASIN ASP: **$21.76**
+
+So the generic market itself is not the opportunity. The opportunity is the higher-value established-brand subset.
+
+Notable branded ASINs:
+
+- Klein Tools 11063W — **$31.01**, 41 sellers
+- KNIPEX 13 72 8 / ASIN `B08L8D54FB` — **$59.34**, 12 sellers
+- KNIPEX 12 62 180 / ASIN `B003B8WB5U` — **$53.55**, 49 sellers
+- Klein Tools K12075 — **$32.08**, 4 sellers
+
+KNIPEX's official product page for 13 72 8 lists a weight of **0.61 lb**, keeping the physical profile attractive for FBA.
+
+## Brand-access screen
+
+### Klein Tools
+
+Klein explicitly supports authorized distributors, has a dedicated prospective-distributor contact path, and maintains distributor-only pricing/terms infrastructure.
+
+This is a strong structural fit for ARCU's brand-direct wholesale model.
+
+Amazon Marketplace permission is **not established** by the public distributor pages and must be confirmed before ARCU applies or requests pricing.
+
+### KNIPEX
+
+KNIPEX North America publicly lists a large network of authorized retailers/distributors, including Amazon as a retail destination, and provides a North America contact route.
+
+The strong seller counts on the surfaced KNIPEX ASINs suggest broad authorized distribution is plausible, but this still does **not** prove that a new authorized reseller may list on Amazon Marketplace. Explicit channel permission remains the gate.
+
+### IRWIN
+
+IRWIN is broadly distributed and appears on many retail channels, but its surfaced wire-stripper ASPs are generally too low for ARCU's first-experiment target. Do not prioritize outreach unless higher-ASP IRWIN SKUs emerge from another niche.
+
+## Updated decision
+
+**Wire strippers are the first non-wrench niche to pass both the market-structure and seller-access screen.**
+
+Do not pursue the whole category. Advance these brand/channel checks:
+
+1. **KNIPEX** — strongest exact economics:
+   - B003B8WB5U around **$53.55 ASP**, 49 sellers, 0.35 lb
+   - B08L8D54FB around **$59.34 ASP**, 12 sellers, 0.61 lb
+2. **Klein Tools** — strongest demand/open-listing structure:
+   - B00BC39YFQ around **$31.01 ASP**, 41 sellers, 12 oz
+
+Next bounded action: confirm Amazon Marketplace authorization with **KNIPEX and Klein Tools** before doing wholesale-price or fee-model work.
+
+If either brand permits Amazon resale, calculate exact per-unit economics for the surfaced ASINs before applying for or buying through a distributor account.
+
