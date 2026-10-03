@@ -222,3 +222,12 @@ Next bounded action: confirm Amazon Marketplace authorization with **KNIPEX and 
 
 If either brand permits Amazon resale, calculate exact per-unit economics for the surfaced ASINs before applying for or buying through a distributor account.
 
+## Outreach status
+
+Authorization inquiries sent 2026-10-02:
+
+- **KNIPEX Tools North America** — asked whether authorized resellers may sell on Amazon Marketplace, the correct wholesale/authorization path, documentation availability, and marketplace/MAP restrictions. Referenced models 12 62 180 and 13 72 8.
+- **Klein Tools** — asked the same channel-authorization questions and whether the prospective distributor application is appropriate for an Amazon-focused reseller. Referenced catalog 11063W.
+
+Status: **awaiting replies**. Do not perform wholesale-price modeling until marketplace permission is confirmed.
+
