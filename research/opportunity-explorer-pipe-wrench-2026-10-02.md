@@ -177,3 +177,19 @@ GEARWRENCH authorization is already pending, so B000RH4HK0 can be added to that 
 3. Keep GEARWRENCH 2595D as a secondary exact SKU under the already-pending GEARWRENCH inquiry.
 4. No additional chain-wrench supplier research until those channel answers are known.
 
+## Outreach status
+
+RIDGID channel-authorization inquiry sent 2026-10-03 to `RTCCustomerService@emerson.com`, a current RIDGID contact address appearing in official RIDGID documentation.
+
+Questions sent:
+
+- whether authorized RIDGID distributors may sell on Amazon Marketplace in the U.S.;
+- the correct authorization / wholesale path for a small new reseller;
+- whether Amazon Marketplace sales require Preferred Online Distributor status or whether that program applies specifically to distributor-owned websites;
+- invoice / reseller-authorization documentation availability;
+- MAP, minimum purchase, full-line, reporting, or other marketplace-specific requirements.
+
+Referenced SKU: catalog **31100 / Model 818**.
+
+Status: **awaiting reply**. Do not model exact wholesale economics until marketplace permission and the qualifying distributor path are confirmed.
+
