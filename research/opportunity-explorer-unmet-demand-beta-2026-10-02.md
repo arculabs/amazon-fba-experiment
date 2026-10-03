@@ -148,3 +148,104 @@ Start with:
 These three give us a useful contrast between a higher-ASP tool niche, a tool-set niche, and a small/light home-hardware niche.
 
 Do not approach suppliers from the Beta list alone.
+
+## Full 500-row pre-screen — revised higher-ASP queue
+
+After screening the complete 500-row Beta export against the first-experiment constraints, the next search queue should be intentionally narrower. This is a **semantic / product-type pre-screen only**; Beta still does not expose ASP, so every item must be checked in the regular Product Opportunity Explorer before supplier work.
+
+Already tested from the original Beta shortlist:
+
+- `torque wrench` / wrench family — market validated; currently in brand-access testing with TEKTON, GEARWRENCH, and SUNEX.
+- `cabinet knobs` — rejected because the higher-ASP subsets showed roughly 10%–12% return rates.
+- `bread slicer` — rejected after detailed inspection because demand contracted sharply and most click share sat on tightly controlled/private-label listings.
+- `pancake batter dispenser` — rejected on sub-$20 ASP.
+- `meatball maker` — rejected on roughly $12–$13 ASP.
+
+### Next Tier A searches
+
+#### 1. Wire stripper
+
+Beta signal:
+
+- search volume: **216,762**
+- search growth: **+13.36%**
+- search conversion: **7.30%**
+- session search conversion: **29.03%**
+- purchase count: **15,840**
+
+Why it advances: compact hand tool, durable, non-electrical as a product, established professional brands, strong conversion, and a plausible path to $25+ ASP in professional / multifunction / automatic variants.
+
+Primary risk: the generic niche may be dominated by sub-$20 tools. This should be the **next regular Opportunity Explorer search**.
+
+#### 2. Jumper cables
+
+Beta signal:
+
+- search volume: **132,596**
+- search growth: **+3.83%**
+- search conversion: **8.72%**
+- session search conversion: **27.81%**
+- purchase count: **11,574**
+
+Why it advances: strong purchase intent, established brands, simple durable product, and heavy-gauge / long-length sets may have enough ASP for the current model.
+
+Primary risk: copper weight / FBA fees and low-priced commodity sets.
+
+#### 3. Tortilla press
+
+Beta signal:
+
+- search volume: **207,419**
+- search growth: **+8.82%**
+- search conversion: **4.08%**
+- session search conversion: **15.15%**
+- purchase count: **8,470**
+
+Why it advances: simple non-electrical durable product, some established cast-iron brands, and plausible $25–$50 product bands.
+
+Primary risk: heavy cast iron and private-label competition.
+
+#### 4. Moka pot
+
+Beta signal:
+
+- search volume: **201,236**
+- search growth: **-0.85%**
+- search conversion: **2.05%**
+- session search conversion: **10.03%**
+- purchase count: **4,135**
+
+Why it advances: compact durable kitchen product with established brands and potentially viable mid-price variants.
+
+Primary risk: many low-priced products; aluminum/stainless variants and brand concentration may fragment the niche.
+
+#### 5. Vinyl record storage
+
+Beta signal:
+
+- search volume: **157,959**
+- search growth: **-2.66%**
+- search conversion: **2.05%**
+- session search conversion: **13.02%**
+- purchase count: **3,239**
+
+Why it advances: plausible $25–$60 products and a non-regulated durable category.
+
+Primary risk: size/weight, furniture-like variants, and private-label saturation.
+
+### Tier B only if Tier A is exhausted
+
+- `steamer for cooking` — decent conversion but mixed intent may include electrical appliances and low-ASP baskets.
+- `vacuum` — clearly high-ASP but electrical, return-heavy, broad, and operationally more complex than desired for the first experiment.
+- `fuel pump`, `starter`, `headlights assembly` — potentially high ASP, but automotive fitment/electrical complexity and returns make them poor first-experiment targets.
+- `small cat tree`, `3d printer stand`, `bar cabinet`, `standing desk` — likely high enough ASP but too bulky.
+- `tea set`, `cookie jar`, `24x36 poster frame` — fragile/style-driven.
+- footwear/apparel/jewelry rows — fit/style/authenticity return risk.
+- supplements, food, beauty/topical, baby, batteries, sexual wellness, weapons, and other regulated/high-risk rows remain excluded.
+
+## Revised next bounded move
+
+Search **`wire stripper`** in the regular Product Opportunity Explorer and export only the broad niche-results CSV first.
+
+Do not export detail tabs unless the broad results contain at least one niche with a plausible ASP (preferably ~$30+), manageable return rate, and enough annual units to justify deeper inspection.
+
