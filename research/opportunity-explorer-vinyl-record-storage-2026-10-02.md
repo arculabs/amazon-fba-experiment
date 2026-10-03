@@ -76,3 +76,90 @@ Primary gates:
 5. whether the $32.66 ASP leaves enough room for the current ~$5/unit contribution floor after FBA and inbound costs.
 
 If mailers fail on dimensional economics or commodity pricing, close the vinyl-record branch and return to a new higher-ASP Beta candidate.
+
+## Detailed vinyl-record mailer inspection
+
+Seller Central detail exports:
+
+- `NicheDetailsSearchTermsTab_10_2_2026(9).csv`
+- `NicheDetailsProductsTab_10_2_2026(9).csv`
+
+### Search behavior
+
+The supplied 20 search terms total **250,101 searches/year**.
+
+Weighted across those terms:
+
+- search conversion: approximately **4.34%**
+- 90-day search-volume growth: approximately **+4.54%**
+- 180-day search-volume growth: approximately **+10.02%**
+
+So the positive demand signal from the broad screen is real.
+
+### Product concentration
+
+The 32 exported products account for approximately **99.85%** of niche click share.
+
+Concentration:
+
+- top 5 ASINs: **50.62%**
+- top 10 ASINs: **68.62%**
+
+Leading brands by click share:
+
+- HORLIMER — **16.54%**
+- Kshioe — **13.46%**
+- XnzoSkylz — **13.37%**
+- Voulosimi — **8.09%**
+- AlbumArmor — **7.45%**
+- Janlaugh — **6.64%**
+
+No established national packaging brand dominates. The market is mostly fragmented marketplace/private-label-style brands.
+
+### Seller structure
+
+This is the decisive failure:
+
+- **14 of 32** products average exactly **1 seller/vendor**
+- **18 of 32** average exactly **2 sellers/vendors**
+- **0 of 32** have more than 2 sellers/vendors
+
+In other words, essentially **100% of niche click share is captured by one- or two-seller listings**.
+
+That leaves no obvious open authorized-wholesale ASIN to pursue.
+
+### ASP reality check
+
+The broad niche showed **$32.66 ASP**.
+
+The detailed product mix is slightly weaker:
+
+- click-share-weighted ASP: approximately **$31.19**
+- median ASIN ASP: **$29.35**
+
+The leading listings mostly sit in the **$23–$35** range.
+
+A few 100-pack listings reach roughly **$50–$73**, but those are single-seller products and are likely more dimensionally expensive to fulfill.
+
+### Dimensional-economics implication
+
+Even before exact FBA modeling, 12–13 inch corrugated mailer bundles are physically wide and volume-intensive relative to their selling price.
+
+Because there are **no open multi-seller branded listings**, there is no reason to spend additional time modeling dimensional weight or contacting suppliers for this niche.
+
+## Updated decision
+
+**REJECT vinyl record mailers for the first ARCU wholesale/FBA experiment.**
+
+Reasons:
+
+1. all 32 surfaced products are controlled by only one or two sellers/vendors;
+2. no established, clearly open wholesale brand emerged;
+3. click-share-weighted ASP is only about **$31.19**;
+4. the product is physically wide/bulky relative to price;
+5. despite healthy demand growth, the seller structure offers no clean authorized-reseller entry point.
+
+Do not perform supplier outreach here.
+
+The vinyl-record branch is now closed.
+
