@@ -215,3 +215,136 @@ SUNEX remains a secondary supplier-access lead, but its surfaced 9710M ASP is pr
 
 If GEARWRENCH access/economics fail, move to the previously identified **`flare nut wrench set`** niche rather than spending more time on crows-foot listings.
 
+## Detailed flare-nut niche inspection
+
+Seller Central detail exports:
+
+- `NicheDetailsSearchTermsTab_10_2_2026(2).csv`
+- `NicheDetailsProductsTab_10_2_2026(2).csv`
+
+### Search behavior
+
+The 20 supplied search terms total **327,888 searches** over the past 360 days.
+
+Weighted across those terms:
+
+- search conversion: approximately **4.44%**
+- 90-day search-volume growth: approximately **-4.23%**
+- 180-day search-volume growth: approximately **+9.71%**
+
+The primary query `flare nut wrench set` shows:
+
+- **81,107 searches/year**
+- **+16.75%** 180-day growth
+- **+1.89%** 90-day growth
+- **3.88%** search conversion
+- **27.26%** click share
+
+This is a healthier search pattern than the crows-foot niche: long-run direction is positive and the main query itself is still growing.
+
+### Product and brand concentration
+
+The 37 exported products account for approximately **99.81%** of niche click share.
+
+Product concentration:
+
+- top 5 ASINs: **49.81%**
+- top 10 ASINs: **72.87%**
+
+Brand concentration:
+
+- SEDY — **28.12%**
+- Der Erwachte — **17.14%**
+- DURATECH — **13.12%**
+- ELEAD — **10.05%**
+
+Those four brands alone capture roughly **68.4%** of niche clicks.
+
+Again, most volume sits on tightly controlled / private-label-style listings:
+
+- **25 products** average exactly **2 sellers/vendors**
+- **8 products** average **1 seller/vendor**
+- only **4 products** have meaningfully broader seller participation
+- those multi-seller products represent only **9.38%** of niche click share
+
+### ASP reality check
+
+The broad niche screen showed **$32.11 ASP**, but the detailed export shows:
+
+- click-share-weighted ASP: approximately **$28.66**
+- median ASIN ASP: **$29.19**
+- below $20: **34.53%** of click share
+- $20–$30: **31.45%**
+- $30–$60: **26.46%**
+- above $60: only **7.37%**
+
+So the broad niche is still too low-priced overall for ARCU's desired absolute-dollar contribution. The opportunity is in a few established branded ASINs rather than the niche average.
+
+### Exact open-listing signals
+
+#### GEARWRENCH 81906
+
+- ASIN: `B000NI93SE`
+- six-piece metric flare-nut wrench set
+- average selling price: **$74.72**
+- average sellers/vendors: **12**
+- niche click share: **2.77%**
+- official UPC: **099575819063**
+- official catalog weight: **2.65 lb**
+- full lifetime warranty
+
+This is a substantially better exact-ASIN economic shape than the GEARWRENCH crows-foot set previously surfaced. The higher ASP creates more room for FBA fees, although the 2.65 lb weight makes wholesale cost and inbound freight important.
+
+GEARWRENCH authorization outreach is already pending. No duplicate outreach is needed; if the brand confirms Amazon resale is permitted, model this ASIN first.
+
+#### GEARWRENCH 81911D
+
+- ASIN: `B000XQ5MJA`
+- six-piece flex flare-nut metric set
+- average selling price: **$83.82**
+- average sellers/vendors: **12**
+- niche click share: **1.53%**
+
+Also worth exact economics if GEARWRENCH grants marketplace authorization.
+
+#### SUNEX 9809A
+
+- ASIN: `B000XW4CCM`
+- average selling price: **$56.56**
+- average sellers/vendors: **16**
+- niche click share: **1.80%**
+- official model: **9809A**
+- official UPC: **613364045190**
+- SAE + metric, nine-piece set, canvas roll
+- lifetime warranty
+
+SUNEX publicly states that prospective resellers can apply to become a distributor and recommends purchases through authorized distributors for warranty support. This is a strong brand-access signal, but Amazon Marketplace permission still needs explicit confirmation before pricing work.
+
+#### CRAFTSMAN CMMT99334
+
+- ASIN: `B09D9524DF`
+- average selling price: **$35.71**
+- average sellers/vendors: **9**
+- niche click share: **3.28%**
+
+The listing is more open than the private-label leaders, but the ASP leaves less contribution room than GEARWRENCH or SUNEX.
+
+## Updated decision
+
+The flare-nut niche is **BETTER THAN CROWS-FOOT FOR EXACT WHOLESALE CANDIDATES**, even though the niche-wide ASP is lower.
+
+Reasons:
+
+1. Search demand is healthier: weighted 180-day growth is about **+9.7%**.
+2. The main query itself is growing.
+3. Two GEARWRENCH ASINs have **$74–$84 ASP** and 12 sellers/vendors.
+4. SUNEX 9809A has **$56.56 ASP**, 16 sellers/vendors, and a public distributor application path.
+
+Current bounded actions:
+
+1. wait for the already-sent GEARWRENCH authorization response; if positive, model `B000NI93SE` first;
+2. separately confirm SUNEX Amazon Marketplace authorization before applying for distributor pricing;
+3. do not pursue the dominant SEDY / Der Erwachte / DURATECH / ELEAD listings unless an independently verified authorized wholesale path appears.
+
+This niche is now sufficiently researched; further work should be channel-access/economics, not more product-table exploration.
+
